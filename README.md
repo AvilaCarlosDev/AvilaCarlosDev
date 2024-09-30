@@ -1,16 +1,18 @@
 <h1 align="center">Hi There 👋</h1>
-<h3 align="center"> I'm Carlos Avila 🧑🏽‍💻</h3>
+<h3 align="center"> I'm Carlos Javier Avila Valerio 🧑🏽‍💻</h3>
 <h3 align="center"> A passionate Full Stack developer👨🏽‍💻 from Venezuela</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=avilacarlosdev&label=Profile%20views&color=0e75b6&style=flat" alt="avilacarlosdev" /> </p>
 
 - 🌱 I’m currently strengthening my knowledge **HTML, CSS, JavaScript, React, TypeScript, Python, PHP, Node.JS, SQL y No SQL**
 
+- 👨‍💻 All of my projects are available at [https://github.com/AvilaCarlosDev](https://github.com/AvilaCarlosDev)
+
 - 💬 Ask me about **programming, anime and video games**
 
 - 📫 How to reach me **AvilaValerioCarlos@gmail.com**
 
-- ⚡ Fun fact **I like anime and kdramas I like to go out with my children and spend time with them**
+- ⚡ Fun fact **I like movies, anime, TV series, especially kdramas, I love video games, I also like to share with my family and play with my children**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
