@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently strengthening my knowledge **HTML, CSS, JavaScript, React, TypeScript, Python, PHP, Node.JS, SQL y No SQL**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AvilaCarlosDev](https://github.com/AvilaCarlosDev)
+- 👨‍💻 All of my projects are available at [https://github.com/AvilaCarlosDev](https://github.com/AvilaCarlosDev?tab=repositories)
 
 - 💬 Ask me about **programming, anime and video games**
 
