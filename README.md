@@ -59,11 +59,11 @@ I'm Carlos Ávila, a passionate Full Stack Developer from Venezuela, currently h
 ---
 ### 📈 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvilaCarlosDev&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AvilaCarlosDev&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AvilaCarlosDev&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AvilaCarlosDev&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
@@ -87,7 +87,7 @@ I'm Carlos Ávila, a passionate Full Stack Developer from Venezuela, currently h
 
 ---
 > ✨ **This README is open for inspiration.** Feel free to borrow ideas or structure for your own profile!
-!
+
 
 
 
