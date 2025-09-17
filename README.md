@@ -1,7 +1,7 @@
 <h1 align="center">Hi There 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Full+Stack+Developer;JavaScript+%7C+React+%7C+Node;Python+%7C+Flask+%7C+MySQL+%7C+Laravel;Open+to+collaboration+and+learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=650&lines=Full+Stack+Developer;JS+%7C+React+%7C+Vue+%7C+Angular;NodeJs+%7C+Python+%7C+PHP+%7C+MySQL+%7C+Laravel+%7C+Django;Open+to+collaboration+and+learning" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ### 👨🏽‍💻 About Me
 
-I'm Carlos Ávila, a passionate Full Stack Developer from Venezuela, currently honing my skills through real-world projects at 4Geeks Academy. My tech stack includes JavaScript, React, Node.js, Python, Flask, MySQL, and Laravel, and I'm always eager to explore new technologies to expand my expertise.
+I'm Carlos Ávila, a passionate Full Stack Developer from Venezuela, currently honing my skills through real-world projects at 4Geeks Academy. My tech stack includes **JavaScript, React, Node.js, Python, Flask, PHP, MySQL, Laravel, Django, HTML, CSS, Vue.js, Vite, Angular, TypeScript, Bootstrap, SASS, MongoDB, API, Docker, and Git**. I'm always eager to explore new technologies to expand my expertise.
 
 🔍 I thrive on building meaningful digital experiences, transforming ideas from concept to deployment. Whether it's frontend design or backend logic, I enjoy the entire process of creating software that solves real-world problems.
 
@@ -44,7 +44,6 @@ I'm Carlos Ávila, a passionate Full Stack Developer from Venezuela, currently h
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-
 #### 🧠 Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -59,6 +58,7 @@ I'm Carlos Ávila, a passionate Full Stack Developer from Venezuela, currently h
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ---
+
 ### 📈 My GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AvilaCarlosDev&layout=compact&theme=radical" alt="Top Languages" />
@@ -69,18 +69,17 @@ I'm Carlos Ávila, a passionate Full Stack Developer from Venezuela, currently h
 </p>
 
 ---
-### 🌐 Connect with Me
 
+### 🌐 Connect with Me
 <p align="left">
    <a href="mailto:AvilaValerioCarlos@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="30" height="30"/></a>&nbsp;&nbsp;
    <a href="https://www.linkedin.com/in/avilacarlosdev" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/></a>&nbsp;&nbsp;
-   <a href="https://github.com/AvilaCarlosDev" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30" height="30"/></a>&nbsp;&nbsp;
    <a href="https://www.facebook.com/AvilaCarlosDev" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" alt="Facebook" width="30" height="30"/></a>
 </p>
 
 ---
-### ☕ Support Me
 
+### ☕ Support Me
 <p>
   <a href="https://www.buymeacoffee.com/AvilaCarlosDev">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
@@ -89,8 +88,6 @@ I'm Carlos Ávila, a passionate Full Stack Developer from Venezuela, currently h
 
 ---
 > ✨ **This README is open for inspiration.** Feel free to borrow ideas or structure for your own profile!
-
-
 
 
 <!---
