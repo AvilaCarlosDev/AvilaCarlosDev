@@ -1,7 +1,7 @@
 <h1 align="center">Hi There 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Full+Stack+Developer;JavaScript+%7C+React+%7C+Node;Python+%7C+Flask+%7C+MySQL+%7C+Laravel;Open+to+collaboration+and+learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Full+Stack+Developer;JavaScript+%7C+React+%7C+Node;Python+%7C+Flask+%7C+MySQL+%7C+Laravel;Open+to+collaboration+and+learning" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=avilacarlosdev&label=Profile%20views&color=0e75b6&style=flat" alt="avilacarlosdev" />
+  <img src="https://komarev.com/ghpvc/?username=AvilaCarlosDev&label=Profile%20views&color=0e75b6&style=flat" alt="AvilaCarlosDev" />
 </p>
 
 ---
@@ -47,7 +47,7 @@ I'm Carlos Ávila, a passionate Full Stack Developer from Venezuela, currently h
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![API](https://img.shields.io/badge/API-FF6C37?style=for-the-badge&logo=databricks&logoColor=white)
+![API](https://img.shields.io/badge/API-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white)
 ![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 #### ⚙️ Frameworks
@@ -59,32 +59,35 @@ I'm Carlos Ávila, a passionate Full Stack Developer from Venezuela, currently h
 ---
 ### 📈 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avilacarlosdev&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvilaCarlosDev&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avilacarlosdev&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AvilaCarlosDev&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
 ### 🌐 Connect with Me
 
 <p align="left">
-   <a href="mailto:AvilaValerioCarlos@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="30" height="30"/></a>&nbsp;&nbsp;<a href="https://linkedin.com/in/carlosjavieravilavalerio" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/></a>
+   <a href="mailto:AvilaValerioCarlos@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="30" height="30"/></a>&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/avilacarlosdev" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/></a>&nbsp;&nbsp;
+   <a href="https://github.com/AvilaCarlosDev" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30" height="30"/></a>&nbsp;&nbsp;
+   <a href="https://www.facebook.com/AvilaCarlosDev" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" alt="Facebook" width="30" height="30"/></a>
 </p>
 
 ---
 ### ☕ Support Me
 
 <p>
-  <a href="https://www.buymeacoffee.com/avilacarlosdev">
+  <a href="https://www.buymeacoffee.com/AvilaCarlosDev">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
   </a>
 </p>
 
 ---
 > ✨ **This README is open for inspiration.** Feel free to borrow ideas or structure for your own profile!
+!
 
 
 
