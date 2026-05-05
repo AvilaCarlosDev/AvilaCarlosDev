@@ -85,8 +85,11 @@ const carlos = {
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AvilaCarlosDev&show_icons=true&theme=github_dark&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvilaCarlosDev&layout=donut&theme=github_dark" alt="Top Languages" />
+  <img alt="GitHub User Stats" src="https://stats.qualeffe.com/api?username=AvilaCarlosDev&theme=dark&show_icons=true" />
+</p>
+
+<p align="center">
+  <img alt="Top Languages" src="https://stats.qualeffe.com/api/top-langs?username=AvilaCarlosDev&theme=dark&layout=compact" />
 </p>
 
 ---
