@@ -68,6 +68,10 @@ I'm Carlos Ávila, a passionate Developer from Venezuela, currently honing my sk
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AvilaCarlosDev&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
+<p align="center">
+  <img src="https://ghchart.rshah.org/42ffa1/AvilaCarlosDev" alt="Contribution Graph" style="max-width: 100%;" />
+</p>
+
 ---
 
 ### 🌐 Connect with Me
