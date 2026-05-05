@@ -111,10 +111,6 @@ I'm Carlos Ávila, a passionate Developer from Venezuela, currently honing my sk
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AvilaCarlosDev&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/42ffa1/AvilaCarlosDev" alt="Contribution Graph" style="max-width: 100%;" />
-</p>
-
 ---
 
 ### 🌐 Connect With Me
