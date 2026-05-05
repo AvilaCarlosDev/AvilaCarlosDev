@@ -72,6 +72,10 @@ I'm Carlos Ávila, a passionate Developer from Venezuela, currently honing my sk
   <img src="https://ghchart.rshah.org/42ffa1/AvilaCarlosDev" alt="Contribution Graph" style="max-width: 100%;" />
 </p>
 
+<p align="center">
+  <img src="https://github-contributions.vercel.app/api?username=AvilaCarlosDev&theme=github-dark" alt="Contribution Graph Dark" style="max-width: 100%;" />
+</p>
+
 ---
 
 ### 🌐 Connect with Me
