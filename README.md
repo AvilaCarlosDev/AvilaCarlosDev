@@ -102,7 +102,7 @@ const carlos = {
 
 <div align="center">
 
-![Contribution Heatmap](https://gh-chart.vercel.app/api/AvilaCarlosDev?theme=radical&color=42ffa1)
+![Contribution Heatmap](https://gh-chart-six.vercel.app/api/AvilaCarlosDev?theme=radical)
 
 </div>
 
