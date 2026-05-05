@@ -22,6 +22,8 @@ I'm Carlos Ávila, a passionate Developer from Venezuela, currently honing my sk
 
 💬 Beyond coding, I'm into anime, video games, and storytelling in all its forms—from movies to K-dramas. I also cherish quality time with my family, which keeps me grounded and inspired.
 
+🤖 **AI Collaboration:** I work alongside AI agents and OpenClaw to build smarter automation workflows and explore the future of human-AI collaboration.
+
 📫 Feel free to connect or reach out at **AvilaValerioCarlos@gmail.com**. I'm always open to collaboration, knowledge sharing, or just chatting about tech and stories!
 
 ---
@@ -95,6 +97,10 @@ I'm Carlos Ávila, a passionate Developer from Venezuela, currently honing my sk
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+#### 🤖 AI & Automation
+![OpenClaw](https://img.shields.io/badge/OpenClaw-42FFA1?style=for-the-badge&logo=github&logoColor=black)
+![AI Agents](https://img.shields.io/badge/AI_Agents-FF8C69?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
