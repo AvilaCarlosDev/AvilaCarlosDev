@@ -69,7 +69,7 @@ I'm Carlos Ávila, a passionate Developer from Venezuela, currently honing my sk
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/42ffa1/AvilaCarlosDev" alt="Contribution Graph" style="max-width: 100%;" />
+  <img src="https://ghchart.rshah.org/dark/42ffa1/AvilaCarlosDev" alt="Contribution Graph" style="max-width: 100%;" />
 </p>
 
 ---
