@@ -102,7 +102,7 @@ const carlos = {
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AvilaCarlosDev&theme=github-compact&hide_border=true&color=42ffa1&line=ff8c69&point=ffffff)
+![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=AvilaCarlosDev&theme=react&hide_border=true&color=42ffa1&line=ff8c69&point=ffffff&area=true)
 
 </div>
 
