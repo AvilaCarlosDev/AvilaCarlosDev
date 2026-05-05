@@ -7,9 +7,9 @@
 
 <div align="center">
 
-![GitHub Banner](https://capsule-render.vercel.app/api?type=waving&color=42ffa1,ff8c69&height=300&section=header&text=Carlos%20Ávila&fontSize=90&fontColor=ffffff&fontAlignY=35&desc=Developer%20🇻🇪&descAlignY=50&descAlign=65&animation=twinkling)
+![GitHub Banner](https://capsule-render.vercel.app/api?type=waving&amp;color=42ffa1,ff8c69&amp;height=300&amp;section=header&amp;text=Carlos%20Ávila&amp;fontSize=90&amp;fontColor=ffffff&amp;fontAlignY=35&amp;desc=Developer%20🇻🇪&amp;descAlignY=50&amp;descAlign=65&amp;animation=twinkling)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=42FFA1&center=true&vCenter=true&width=600&lines=Developer+from+Venezuela+🇻🇪;Building+the+future+with+code;React+%7C+Node.js+%7C+Python;Open+to+collaboration)](https://github.com/AvilaCarlosDev)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;pause=1000&amp;color=42FFA1&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Developer+from+Venezuela+🇻🇪;Building+the+future+with+code;React+%7C+Node.js+%7C+Python;Open+to+collaboration)](https://github.com/AvilaCarlosDev)
 
 </div>
 
@@ -40,43 +40,43 @@ const carlos = {
 <div align="center">
 
 ### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1a1a1a)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1a1a1a)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a1a)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=1a1a1a)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black&amp;labelColor=1a1a1a)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&amp;logo=typescript&amp;logoColor=white&amp;labelColor=1a1a1a)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white&amp;labelColor=1a1a1a)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&amp;logo=php&amp;logoColor=white&amp;labelColor=1a1a1a)
 
 ### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=1a1a1a)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=1a1a1a)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=1a1a1a)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white&labelColor=1a1a1a)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1a1a1a)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1a1a1a)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white&labelColor=1a1a1a)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=1a1a1a)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=1a1a1a)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&amp;logo=react&amp;logoColor=black&amp;labelColor=1a1a1a)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&amp;logo=vue.js&amp;logoColor=white&amp;labelColor=1a1a1a)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&amp;logo=angular&amp;logoColor=white&amp;labelColor=1a1a1a)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&amp;logo=vite&amp;logoColor=white&amp;labelColor=1a1a1a)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white&amp;labelColor=1a1a1a)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white&amp;labelColor=1a1a1a)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&amp;logo=sass&amp;logoColor=white&amp;labelColor=1a1a1a)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white&amp;labelColor=1a1a1a)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&amp;logo=tailwind-css&amp;logoColor=white&amp;labelColor=1a1a1a)
 
 ### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=1a1a1a)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=1a1a1a)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=1a1a1a)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=1a1a1a)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white&amp;labelColor=1a1a1a)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&amp;logo=flask&amp;logoColor=white&amp;labelColor=1a1a1a)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&amp;logo=django&amp;logoColor=white&amp;labelColor=1a1a1a)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&amp;logo=laravel&amp;logoColor=white&amp;labelColor=1a1a1a)
 
 ### Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1a1a1a)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=1a1a1a)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=1a1a1a)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white&amp;labelColor=1a1a1a)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white&amp;labelColor=1a1a1a)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&amp;logo=sqlite&amp;logoColor=white&amp;labelColor=1a1a1a)
 
-### DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1a1a)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1a1a1a)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=1a1a1a)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a1a)
+### DevOps &amp; Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white&amp;labelColor=1a1a1a)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white&amp;labelColor=1a1a1a)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black&amp;labelColor=1a1a1a)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=1a1a1a)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&amp;logo=vercel&amp;logoColor=white&amp;labelColor=1a1a1a)
 
-### AI & Automation
-![OpenClaw](https://img.shields.io/badge/OpenClaw-42FFA1?style=for-the-badge&logo=github&logoColor=black&labelColor=1a1a1a)
-![AI Agents](https://img.shields.io/badge/AI_Agents-FF8C69?style=for-the-badge&logo=openai&logoColor=white&labelColor=1a1a1a)
+### AI &amp; Automation
+![OpenClaw](https://img.shields.io/badge/OpenClaw-42FFA1?style=for-the-badge&amp;logo=github&amp;logoColor=black&amp;labelColor=1a1a1a)
+![AI Agents](https://img.shields.io/badge/AI_Agents-FF8C69?style=for-the-badge&amp;logo=openai&amp;logoColor=white&amp;labelColor=1a1a1a)
 
 </div>
 
@@ -84,15 +84,15 @@ const carlos = {
 
 ## 📊 GitHub Stats
 
-![Carlos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AvilaCarlosDev&show_icons=true&theme=radical&title_color=42ffa1&icon_color=ff8c69&text_color=c9d1d9&bg_color=0d1117)
+![Carlos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AvilaCarlosDev&amp;show_icons=true&amp;theme=radical&amp;title_color=42ffa1&amp;icon_color=ff8c69&amp;text_color=c9d1d9&amp;bg_color=0d1117)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AvilaCarlosDev&layout=compact&theme=radical&title_color=42ffa1&text_color=c9d1d9&bg_color=0d1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AvilaCarlosDev&amp;layout=compact&amp;theme=radical&amp;title_color=42ffa1&amp;text_color=c9d1d9&amp;bg_color=0d1117)
 
 ---
 
 ## 📅 Contribution Graph
 
-![GitHub Contribution Graph](https://github-readme-stats.vercel.app/api/contributions?username=AvilaCarlosDev&theme=radical)
+![GitHub Contribution Graph](https://github-readme-stats.vercel.app/api?username=AvilaCarlosDev&amp;show_icons=true&amp;theme=radical&amp;hide_rank=true&amp;hide=contribs,prs,issues,stars,followers&amp;count_private=true)
 
 ---
 
@@ -139,10 +139,10 @@ const carlos = {
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:AvilaValerioCarlos@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avilacarlosdev)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/avilacarlosdev)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AvilaCarlosDev)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:AvilaValerioCarlos@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/avilacarlosdev)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&amp;logo=twitter&amp;logoColor=white)](https://twitter.com/avilacarlosdev)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/AvilaCarlosDev)
 
 </div>
 
@@ -166,7 +166,7 @@ const carlos = {
 
 ### 🌟 Thanks for visiting my profile!
 
-![Visitor Count](https://komarev.com/ghpvc/?username=AvilaCarlosDev&label=Profile+Views&color=42ffa1&style=flat-square&logo=github)
+![Visitor Count](https://komarev.com/ghpvc/?username=AvilaCarlosDev&amp;label=Profile+Views&amp;color=42ffa1&amp;style=flat-square&amp;logo=github)
 
 **Made with 💚 and ☕ in Venezuela**
 
