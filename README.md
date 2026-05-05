@@ -82,14 +82,11 @@ const carlos = {
 
 ---
 
-## 📊 GitHub Stats
+## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://ghstats.dev/api?username=AvilaCarlosDev&theme=radical" alt="Carlos's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AvilaCarlosDev&theme=radical&no-frame=true&column=4" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AvilaCarlosDev&show_icons=true&theme=github_dark&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvilaCarlosDev&layout=donut&theme=github_dark" alt="Top Languages" />
 </p>
 
 ---
@@ -97,7 +94,7 @@ const carlos = {
 ## 📅 Contribution Graph
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/42ffa1/AvilaCarlosDev" alt="Carlos's Contribution Graph" style="max-width: 100%;" />
+  <img src="https://ghchart.rshah.org/42ffa1/AvilaCarlosDev" alt="Contribution Graph" style="max-width: 100%;" />
 </p>
 
 ---
