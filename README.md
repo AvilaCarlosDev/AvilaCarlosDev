@@ -98,6 +98,18 @@ const carlos = {
 
 ---
 
+## 📅 Contribution Graph
+
+<div align="center">
+
+![Carlos's Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AvilaCarlosDev&theme=radical)
+
+![Contribution Heatmap](https://gh-chart.vercel.app/api/AvilaCarlosDev?theme=radical&color=42ffa1)
+
+</div>
+
+---
+
 ## 🚀 Featured Projects
 
 <div align="center">
