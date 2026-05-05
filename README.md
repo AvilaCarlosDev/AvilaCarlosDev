@@ -22,7 +22,46 @@ I'm Carlos Ávila, a passionate Developer from Venezuela, currently honing my sk
 
 💬 Beyond coding, I'm into anime, video games, and storytelling in all its forms—from movies to K-dramas. I also cherish quality time with my family, which keeps me grounded and inspired.
 
+🤖 **AI Collaboration:** I work alongside AI agents and OpenClaw to build smarter automation workflows and explore the future of human-AI collaboration.
+
 📫 Feel free to connect or reach out at **AvilaValerioCarlos@gmail.com**. I'm always open to collaboration, knowledge sharing, or just chatting about tech and stories!
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/AvilaCarlosDev/carlos-avila-portfolio">
+        <strong>🌐 Portfolio</strong>
+      </a><br/>
+      <sub>Professional website</sub><br/>
+      <sub>React + Tailwind + Vite</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/AvilaCarlosDev/awesome-venezuela-dev">
+        <strong>🇻🇪 Awesome VE Dev</strong>
+      </a><br/>
+      <sub>Resources for devs</sub><br/>
+      <sub>Community-driven</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/AvilaCarlosDev/github-streak-keeper">
+        <strong>🟩 Streak Keeper</strong>
+      </a><br/>
+      <sub>Auto-commit scripts</sub><br/>
+      <sub>Bash + Systemd</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/AvilaCarlosDev/openclaw-config">
+        <strong>🤖 OpenClaw</strong>
+      </a><br/>
+      <sub>AI automation</sub><br/>
+      <sub>OpenClaw + Scripts</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -30,65 +69,84 @@ I'm Carlos Ávila, a passionate Developer from Venezuela, currently honing my sk
 
 #### 💻 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-#### 🔧 Frontend
+#### 🎨 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-#### 🧠 Backend
+#### 🔧 Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![API](https://img.shields.io/badge/API-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-#### ⚙️ Frameworks
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+#### 🗄️ Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+#### 🤖 AI & Automation
+![OpenClaw](https://img.shields.io/badge/OpenClaw-42FFA1?style=for-the-badge&logo=github&logoColor=black)
+![AI Agents](https://img.shields.io/badge/AI_Agents-FF8C69?style=for-the-badge&logo=openai&logoColor=white)
+
+#### 🛠️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-### 📈 My GitHub Stats
+### 📈 GitHub Stats
+
 <p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AvilaCarlosDev&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AvilaCarlosDev&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AvilaCarlosDev&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://ghchart.rshah.org/42ffa1/AvilaCarlosDev" alt="Contribution Graph" style="max-width: 100%;" />
 </p>
 
 ---
 
-### 🌐 Connect with Me
-<p align="left">
-   <a href="mailto:AvilaValerioCarlos@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="30" height="30"/></a>&nbsp;&nbsp;
-   <a href="https://www.linkedin.com/in/avilacarlosdev" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/></a>&nbsp;&nbsp;
-   <a href="https://www.facebook.com/AvilaCarlosDev" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" alt="Facebook" width="30" height="30"/></a>
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:AvilaValerioCarlos@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/avilacarlosdev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/AvilaCarlosDev" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://github.com/AvilaCarlosDev">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 ---
 
 ### ☕ Support Me
-<p>
+
+<p align="center">
   <a href="https://www.buymeacoffee.com/AvilaCarlosDev">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
   </a>
 </p>
 
 ---
-> ✨ **This README is open for inspiration.** Feel free to borrow ideas or structure for your own profile!
 
+> ✨ **This README is open for inspiration.** Feel free to borrow ideas or structure for your own profile!
 
 <!---
 AvilaCarlosDev/AvilaCarlosDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
