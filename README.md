@@ -90,10 +90,6 @@ const carlos = {
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AvilaCarlosDev&layout=compact&theme=radical&hide_border=true&title_color=42ffa1&text_color=c9d1d9&bg_color=0d1117)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AvilaCarlosDev&theme=radical&hide_border=true&fire=42ffa1&ring=ff8c69)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AvilaCarlosDev&theme=radical&no-frame=true&column=4&row=1&margin-w=10)
-
 </div>
 
 ---
@@ -102,7 +98,7 @@ const carlos = {
 
 <div align="center">
 
-![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=AvilaCarlosDev&theme=react&hide_border=true&color=42ffa1&line=ff8c69&point=ffffff&area=true)
+![GitHub Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AvilaCarlosDev&theme=radical)
 
 </div>
 
