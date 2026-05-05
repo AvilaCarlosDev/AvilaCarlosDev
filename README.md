@@ -107,10 +107,6 @@ I'm Carlos Ávila, a passionate Developer from Venezuela, currently honing my sk
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=AvilaCarlosDev&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://ghchart.rshah.org/42ffa1/AvilaCarlosDev" alt="Contribution Graph" style="max-width: 100%;" />
 </p>
 
