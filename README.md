@@ -85,11 +85,11 @@ const carlos = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AvilaCarlosDev&show_icons=true&theme=radical&title_color=42ffa1&icon_color=ff8c69&text_color=c9d1d9&bg_color=0d1117" alt="Carlos's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AvilaCarlosDev&show_icons=true&theme=radical" alt="Carlos's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvilaCarlosDev&layout=compact&theme=radical&title_color=42ffa1&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvilaCarlosDev&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
