@@ -107,11 +107,6 @@ I'm Carlos Ávila, a passionate Developer from Venezuela, currently honing my sk
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AvilaCarlosDev&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AvilaCarlosDev&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.demolab.com/?user=AvilaCarlosDev&theme=radical" alt="GitHub Streak" />
 </p>
 
