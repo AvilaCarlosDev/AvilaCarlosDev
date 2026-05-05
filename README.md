@@ -84,23 +84,15 @@ const carlos = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
+![Carlos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AvilaCarlosDev&show_icons=true&theme=radical&title_color=42ffa1&icon_color=ff8c69&text_color=c9d1d9&bg_color=0d1117)
 
-![Carlos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AvilaCarlosDev&show_icons=true&theme=radical&hide_border=true&title_color=42ffa1&icon_color=ff8c69&text_color=c9d1d9&bg_color=0d1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AvilaCarlosDev&layout=compact&theme=radical&hide_border=true&title_color=42ffa1&text_color=c9d1d9&bg_color=0d1117)
-
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AvilaCarlosDev&layout=compact&theme=radical&title_color=42ffa1&text_color=c9d1d9&bg_color=0d1117)
 
 ---
 
 ## 📅 Contribution Graph
 
-<div align="center">
-
-![GitHub Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AvilaCarlosDev&theme=radical)
-
-</div>
+![GitHub Contribution Graph](https://github-readme-stats.vercel.app/api/contributions?username=AvilaCarlosDev&theme=radical)
 
 ---
 
