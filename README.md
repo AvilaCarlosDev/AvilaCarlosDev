@@ -1,7 +1,7 @@
 <h1 align="center">Hi There 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=650&lines=Full+Stack+Developer;JS+%7C+React+%7C+Vue+%7C+Angular;NodeJs+%7C+Python+%7C+PHP+%7C+MySQL+%7C+Laravel+%7C+Django;Open+to+collaboration+and+learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=650&lines=Developer;JS+%7C+React+%7C+Vue+%7C+Angular;NodeJs+%7C+Python+%7C+PHP+%7C+MySQL+%7C+Laravel+%7C+Django;Open+to+collaboration+and+learning" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ### 👨🏽‍💻 About Me
 
-I'm Carlos Ávila, a passionate Full Stack Developer from Venezuela, currently honing my skills through real-world projects at 4Geeks Academy. My tech stack includes **JavaScript, React, Node.js, Python, Flask, PHP, MySQL, Laravel, Django, HTML, CSS, Vue.js, Vite, Angular, TypeScript, Bootstrap, SASS, MongoDB, API, Docker, and Git**. I'm always eager to explore new technologies to expand my expertise.
+I'm Carlos Ávila, a passionate Developer from Venezuela, currently honing my skills through real-world projects at 4Geeks Academy. My tech stack includes **JavaScript, React, Node.js, Python, Flask, PHP, MySQL, Laravel, Django, HTML, CSS, Vue.js, Vite, Angular, TypeScript, Bootstrap, SASS, MongoDB, API, Docker, and Git**. I'm always eager to explore new technologies to expand my expertise.
 
 🔍 I thrive on building meaningful digital experiences, transforming ideas from concept to deployment. Whether it's frontend design or backend logic, I enjoy the entire process of creating software that solves real-world problems.
 
