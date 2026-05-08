@@ -11,8 +11,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=42FFA1&center=true&vCenter=true&width=600&lines=Developer+from+Venezuela+🇻🇪;Building+the+future+with+code;React+%7C+Node.js+%7C+Python;AI+Collaboration+%26+Automation)](https://github.com/AvilaCarlosDev)
 
-<h3><code>&lt;CA/&gt;</code> Carlos Avila</h3>
-<p><em>Building useful things with code, AI and community.</em></p>
+<p align="center"><code>&lt;CA/&gt;</code> Building useful things with code, AI and community.</p>
 
 </div>
 
