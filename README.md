@@ -11,6 +11,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=42FFA1&center=true&vCenter=true&width=600&lines=Developer+from+Venezuela+🇻🇪;Building+the+future+with+code;React+%7C+Node.js+%7C+Python;AI+Collaboration+%26+Automation)](https://github.com/AvilaCarlosDev)
 
+<h3><code>&lt;CA/&gt;</code> Carlos Avila</h3>
+<p><em>Building useful things with code, AI and community.</em></p>
+
 </div>
 
 ---
@@ -19,17 +22,18 @@
 
 ```javascript
 const carlos = {
-  pronouns: "He/Him",
+  role: "Developer",
   location: "Punto Fijo, Falcón, Venezuela 🇻🇪",
   email: "AvilaValerioCarlos@gmail.com",
-  passions: ["Coding", "Anime", "Video Games", "Family Time"],
+  focus: ["React", "Node.js", "Python", "AI Automation"],
   currentlyLearning: ["OpenClaw", "AI Agents", "System Design"],
-  funFact: "I drink infinite coffee while coding ☕",
+  passions: ["Coding", "Anime", "Video Games", "Family Time"],
+  signature: "<CA/>",
   portfolio: "https://carlos-avila-portfolio.vercel.app"
 };
 ```
 
-> 🔍 **I thrive on building meaningful digital experiences**, transforming ideas from concept to deployment. Whether it's frontend design or backend logic, I enjoy the entire process of creating software that solves real-world problems.
+> 🔍 **I thrive on building meaningful digital experiences**, transforming ideas from concept to deployment. As a Developer, I enjoy creating practical software that solves real-world problems and supports communities.
 
 > 🤖 **AI Collaboration:** I work alongside AI agents and OpenClaw to build smarter automation workflows and explore the future of human-AI collaboration.
 
@@ -64,10 +68,10 @@ const carlos = {
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/AvilaCarlosDev/openclaw-config">
-        <strong>🤖 OpenClaw</strong><br/>
-        AI automation<br/>
-        OpenClaw + Scripts
+      <a href="https://github.com/AvilaCarlosDev/openclaw-skills">
+        <strong>🤖 OpenClaw Skills</strong><br/>
+        AI agent skills<br/>
+        Automation + Docs
       </a>
     </td>
   </tr>
