@@ -7,7 +7,7 @@
 
 <div align="center">
 
-![GitHub Banner](https://capsule-render.vercel.app/api?type=waving&color=42ffa1,ff8c69&height=300&section=header&text=Carlos%20Avila&fontSize=90&fontColor=ffffff&fontAlignY=35&desc=Developer%20🇻🇪&descAlignY=50&descAlign=65&animation=twinkling)
+![GitHub Banner](https://capsule-render.vercel.app/api?type=waving&color=0B2433,F2B84B,D64532&height=300&section=header&text=Carlos%20Avila&fontSize=86&fontColor=FFF7DC&fontAlignY=34&desc=%3CCA%2F%3E%20Developer%20%E2%80%A2%20Web%20%7C%20AI%20%7C%20Community&descSize=22&descAlignY=52&descAlign=50&animation=twinkling)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=42FFA1&center=true&vCenter=true&width=600&lines=Developer+from+Venezuela+🇻🇪;Building+the+future+with+code;React+%7C+Node.js+%7C+Python;AI+Collaboration+%26+Automation)](https://github.com/AvilaCarlosDev)
 
