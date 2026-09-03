@@ -11,13 +11,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=42FFA1&center=true&vCenter=true&width=600&lines=Developer+from+Venezuela+🇻🇪;Building+the+future+with+code;React+%7C+Node.js+%7C+Python;AI+Collaboration+%26+Automation)](https://github.com/AvilaCarlosDev)
 
-<p align="center"><code>&lt;CA/&gt;</code> Building useful things with code, AI and community.</p>
+<p align="center"><code><CA/></code> Building useful things with code, AI and community.</p>
 
 </div>
 
 ---
 
-## 👨🏽‍💻 About Me  
+## 👨🏽‍💻 About Me
 
 ```javascript
 const carlos = {
@@ -79,6 +79,32 @@ const carlos = {
 
 ---
 
+## 📌 Extra Pinned Projects
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/AvilaCarlosDev/mcp-doctor">
+        <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=AvilaCarlosDev&repo=mcp-doctor&theme=radical&show_owner=true" alt="mcp-doctor" width="300"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/AvilaCarlosDev/weather-app-Vite">
+        <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=AvilaCarlosDev&repo=weather-app-Vite&theme=radical&show_owner=true" alt="weather-app-Vite" width="300"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/AvilaCarlosDev/libro-de-prompts-ia-generativa">
+        <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=AvilaCarlosDev&repo=libro-de-prompts-ia-generativa&theme=radical&show_owner=true" alt="libro-de-prompts-ia-generativa" width="300"/>
+      </a>
+    </td>
+  </tr>
+</table>
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -128,9 +154,11 @@ const carlos = {
 
 <div align="center">
 
-![Carlos's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=AvilaCarlosDev&show_icons=true&theme=radical&hide_border=true&title_color=42ffa1&icon_color=ff8c69&text_color=c9d1d9&bg_color=0d1117)
+![Carlos's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=AvilaCarlosDev&show_icons=true&theme=radical&hide_border=true&title_color=42ffa1&icon_color=ff8c69&text_color=c9d1d9&bg_color=0d1117&cache_seconds=0)
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AvilaCarlosDev&layout=compact&theme=radical&hide_border=true&title_color=42ffa1&text_color=c9d1d9&bg_color=0d1117)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AvilaCarlosDev&layout=compact&theme=radical&hide_border=true&title_color=42ffa1&text_color=c9d1d9&bg_color=0d1117&cache_seconds=0)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AvilaCarlosDev&theme=radical&hide_border=true&background=0d1117&stroke=42ffa1&fire=ff8c69&ring=42ffa1&currStreakLabel=42ffa1&currStreakNum=ff8c69&sideNums=ff8c69&sideLabels=c9d1d9&dates=c9d1d9)
 
 </div>
 
