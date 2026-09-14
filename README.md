@@ -1,41 +1,190 @@
-## Carlos Avila
+<!--
+  Carlos Avila - GitHub Profile README
+  Developer | AI Enthusiast | Open Source Lover
+-->
 
-**Developer y mentor tecnico.** Trabajo en [4Geeks Academy](https://4geeksacademy.com) como Community & Public Support Specialist y Senior Mentor: acompano a estudiantes que estan aprendiendo a programar, reviso sus proyectos y les ayudo a desatascarse.
+<div align="center">
 
-Fuera de eso construyo herramientas para desarrolladores, sobre todo alrededor de agentes de IA, automatizacion y Linux. Escribo la documentacion en espanol porque en espanol hace mas falta.
+![GitHub Banner](https://capsule-render.vercel.app/api?type=waving&color=0B2433,F2B84B,D64532&height=300&section=header&text=Carlos%20Avila&fontSize=86&fontColor=FFF7DC&fontAlignY=34&desc=%3CCA%2F%3E%20Developer%20%E2%80%A2%20Web%20%7C%20AI%20%7C%20Community&descSize=22&descAlignY=52&descAlign=50&animation=twinkling)
 
-Punto Fijo, Venezuela.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=42FFA1&center=true&vCenter=true&width=600&lines=Developer+from+Venezuela+%F0%9F%87%BB%F0%9F%87%AA;Senior+Mentor+at+4Geeks+Academy;Herramientas+para+devs+%7C+MCP+%7C+Linux;Documentaci%C3%B3n+en+espa%C3%B1ol)](https://github.com/AvilaCarlosDev)
 
----
+<p align="center"><code>&lt;CA/&gt;</code> Building useful things with code, AI and community.</p>
 
-### En que estoy trabajando
-
-**[mcp-doctor](https://github.com/AvilaCarlosDev/mcp-doctor)** — CLI en TypeScript que se conecta a un servidor MCP, inspecciona lo que realmente expone y te dice por que el agente no lo esta usando: esquemas invalidos, descripciones que el modelo no entiende, nombres duplicados, stdout contaminado. Reportes en consola, JSON y Markdown. Publicado en npm.
-
-**[hyprland-macos-dotfiles](https://github.com/AvilaCarlosDev/hyprland-macos-dotfiles)** — Mi setup de Arch + Hyprland. Menus propios en GTK que reemplazan a wofi y rofi, monitor virtual headless por wayvnc para usar una tablet como segunda pantalla, y la fila Fn del teclado mapeada a funciones reales.
-
-**[repo-maintenance-bot](https://github.com/AvilaCarlosDev/repo-maintenance-bot)** — Bot en Bash que mantiene varios repos a la vez: actualiza lockfiles, corre los tests y revierte si fallan. Solo commitea cuando el cambio es real.
-
-**[radar-junior-remoto](https://github.com/AvilaCarlosDev/radar-junior-remoto)** — Donde buscar trabajo remoto junior en espanol, que es un salario digno, y como certificar ingles gratis.
-
-### Para la comunidad
-
-**[awesome-venezuela-dev](https://github.com/AvilaCarlosDev/awesome-venezuela-dev)** — Recursos para desarrolladores en Venezuela, con los enlaces verificados automaticamente cada semana.
-
-**[free-apis-ia-espanol](https://github.com/AvilaCarlosDev/free-apis-ia-espanol)** — APIs de LLM gratuitas, documentadas en espanol.
-
-**[openclaw-skills](https://github.com/AvilaCarlosDev/openclaw-skills)** — Coleccion curada de skills para OpenClaw, con credito a cada autor original.
+</div>
 
 ---
 
-### Stack
+## 👨🏽‍💻 About Me
 
-`TypeScript` `JavaScript` `React` `Node.js` `Python` `Flask` `Bash` `Tailwind` `Vite` `PostgreSQL` `Supabase` `Docker` `Linux` `Git`
+```javascript
+const carlos = {
+  role: "Developer & Senior Mentor",
+  company: "4Geeks Academy",
+  location: "Punto Fijo, Falcon, Venezuela 🇻🇪",
+  email: "AvilaValerioCarlos@gmail.com",
+  focus: ["React", "Node.js", "Python", "AI Automation"],
+  currentlyLearning: ["OpenClaw", "AI Agents", "System Design"],
+  passions: ["Coding", "Anime", "Video Games", "Family Time"],
+  signature: "<CA/>",
+  portfolio: "https://carlos-avila-portfolio.vercel.app"
+};
+```
+
+> 🎓 **Community & Public Support Specialist y Senior Mentor en [4Geeks Academy](https://4geeksacademy.com).** Acompano a estudiantes que estan aprendiendo a programar: reviso sus proyectos, les ayudo a depurar y los oriento en su ruta de aprendizaje.
+
+> 🔍 **I thrive on building meaningful digital experiences**, transforming ideas from concept to deployment. As a Developer, I enjoy creating practical software that solves real-world problems and supports communities.
+
+> 🤖 **AI Collaboration:** I work alongside AI agents and OpenClaw to build smarter automation workflows and explore the future of human-AI collaboration.
+
+> 💬 Beyond coding, I am into **anime**, **video games**, and storytelling in all its forms—from movies to K-dramas. I also cherish quality time with my **family**, which keeps me grounded and inspired.
 
 ---
 
-### Contacto
+## 🚀 Featured Projects
 
-[Portafolio](https://carlos-avila-portfolio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/avilacarlosdev) · [avilavaleriocarlos@gmail.com](mailto:avilavaleriocarlos@gmail.com)
+<div align="center">
+<table>
+<tr>
+<td align="center">
+<a href="https://github.com/AvilaCarlosDev/mcp-doctor">
+<strong>🩺 mcp-doctor</strong><br/>
+Diagnostico de servidores MCP<br/>
+TypeScript + npm
+</a>
+</td>
+<td align="center">
+<a href="https://github.com/AvilaCarlosDev/hyprland-macos-dotfiles">
+<strong>🖥️ Hyprland Dotfiles</strong><br/>
+Arch + Hyprland, menus propios<br/>
+Python + GTK + Lua
+</a>
+</td>
+<td align="center">
+<a href="https://github.com/AvilaCarlosDev/repo-maintenance-bot">
+<strong>🤖 Repo Maintenance Bot</strong><br/>
+Mantenimiento multi-repo seguro<br/>
+Bash + Systemd
+</a>
+</td>
+<td align="center">
+<a href="https://github.com/AvilaCarlosDev/awesome-venezuela-dev">
+<strong>🇻🇪 Awesome VE Dev</strong><br/>
+Recursos para devs en Venezuela<br/>
+Community-driven
+</a>
+</td>
+</tr>
+</table>
+</div>
 
-Si estas aprendiendo a programar y te trabaste en algo, escribeme. Es literalmente a lo que me dedico.
+---
+
+## 📌 Extra Pinned Projects
+
+<div align="center">
+<table>
+<tr>
+<td align="center">
+<a href="https://github.com/AvilaCarlosDev/radar-junior-remoto">
+<img src="https://github-readme-stats-fast-mine.vercel.app/api/pin/?username=AvilaCarlosDev&repo=radar-junior-remoto&theme=radical&show_owner=true" alt="radar-junior-remoto" width="300"/>
+</a>
+</td>
+<td align="center">
+<a href="https://github.com/AvilaCarlosDev/free-apis-ia-espanol">
+<img src="https://github-readme-stats-fast-mine.vercel.app/api/pin/?username=AvilaCarlosDev&repo=free-apis-ia-espanol&theme=radical&show_owner=true" alt="free-apis-ia-espanol" width="300"/>
+</a>
+</td>
+<td align="center">
+<a href="https://github.com/AvilaCarlosDev/libro-de-prompts-ia-generativa">
+<img src="https://github-readme-stats-fast-mine.vercel.app/api/pin/?username=AvilaCarlosDev&repo=libro-de-prompts-ia-generativa&theme=radical&show_owner=true" alt="libro-de-prompts-ia-generativa" width="300"/>
+</a>
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 💻 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1a1a1a) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1a1a1a) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a1a) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=1a1a1a)
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=1a1a1a) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white&labelColor=1a1a1a) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1a1a1a) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1a1a1a) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=1a1a1a)
+
+### 🔧 Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=1a1a1a) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=1a1a1a)
+
+### 🗄️ Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1a1a1a) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white&labelColor=1a1a1a) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=1a1a1a)
+
+### 🤖 AI & Automation
+![MCP](https://img.shields.io/badge/MCP-FF8C69?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=1a1a1a) ![OpenClaw](https://img.shields.io/badge/OpenClaw-42FFA1?style=for-the-badge&logo=github&logoColor=black&labelColor=1a1a1a) ![AI Agents](https://img.shields.io/badge/AI_Agents-FF8C69?style=for-the-badge&logo=openai&logoColor=white&labelColor=1a1a1a)
+
+### 🛠️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1a1a) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1a1a1a) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=1a1a1a) ![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF?style=for-the-badge&logo=wayland&logoColor=white&labelColor=1a1a1a) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a1a)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Carlos GitHub Stats](https://github-readme-stats-fast-mine.vercel.app/api?username=AvilaCarlosDev&show_icons=true&theme=radical&hide_border=true&title_color=42ffa1&icon_color=ff8c69&text_color=c9d1d9&bg_color=0d1117&cache_seconds=0)
+
+![Top Languages](https://github-readme-stats-fast-mine.vercel.app/api/top-langs/?username=AvilaCarlosDev&layout=compact&theme=radical&hide_border=true&title_color=42ffa1&text_color=c9d1d9&bg_color=0d1117&cache_seconds=0)
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0B2433?style=for-the-badge&logo=vercel&logoColor=white)](https://carlos-avila-portfolio.vercel.app)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:AvilaValerioCarlos@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avilacarlosdev)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/avilacarlosdev)
+
+</div>
+
+> Si estas aprendiendo a programar y te trabaste en algo, escribeme. Es literalmente a lo que me dedico.
+
+---
+
+## ☕ Support My Work
+
+<div align="center">
+
+<a href="https://www.buymeacoffee.com/AvilaCarlosDev" target="_blank">
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" width="217" />
+</a>
+
+*Your support keeps the coffee flowing and the code coming!* ☕🚀
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌟 Thanks for visiting my profile!
+
+![Visitor Count](https://komarev.com/ghpvc/?username=AvilaCarlosDev&label=Profile+Views&color=42ffa1&style=flat-square&logo=github)
+
+**Made with 💚 and ☕ in Venezuela**
+
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding" width="150" />
+
+---
+
+> ✨ *"Code is like humor. When you have to explain it, it is bad."* — Cory House
+
+</div>
