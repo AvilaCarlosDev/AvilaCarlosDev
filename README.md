@@ -7,7 +7,7 @@
 
 ![GitHub Banner](https://capsule-render.vercel.app/api?type=waving&color=0B2433,F2B84B,D64532&height=300&section=header&text=Carlos%20Avila&fontSize=86&fontColor=FFF7DC&fontAlignY=34&desc=%3CCA%2F%3E%20Developer%20%E2%80%A2%20Web%20%7C%20AI%20%7C%20Community&descSize=22&descAlignY=52&descAlign=50&animation=twinkling)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=42FFA1&center=true&vCenter=true&width=600&lines=Developer+from+Venezuela+%F0%9F%87%BB%F0%9F%87%AA;Senior+Mentor+at+4Geeks+Academy;Herramientas+para+devs+%7C+MCP+%7C+Linux;Documentaci%C3%B3n+en+espa%C3%B1ol)](https://github.com/AvilaCarlosDev)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=42FFA1&center=true&vCenter=true&width=600&lines=Developer+from+Venezuela+%F0%9F%87%BB%F0%9F%87%AA;Senior+Mentor+at+4Geeks+Academy;Developer+tooling+%7C+MCP+%7C+Linux;Docs+in+Spanish+for+LATAM+devs)](https://github.com/AvilaCarlosDev)
 
 <p align="center"><code>&lt;CA/&gt;</code> Building useful things with code, AI and community.</p>
 
@@ -31,7 +31,7 @@ const carlos = {
 };
 ```
 
-> 🎓 **Community & Public Support Specialist y Senior Mentor en [4Geeks Academy](https://4geeksacademy.com).** Acompano a estudiantes que estan aprendiendo a programar: reviso sus proyectos, les ayudo a depurar y los oriento en su ruta de aprendizaje.
+> 🎓 **Community & Public Support Specialist and Senior Mentor at [4Geeks Academy](https://4geeksacademy.com).** I support students who are learning to code: I review their projects, help them debug, and guide them through their learning path.
 
 > 🔍 **I thrive on building meaningful digital experiences**, transforming ideas from concept to deployment. As a Developer, I enjoy creating practical software that solves real-world problems and supports communities.
 
@@ -49,28 +49,28 @@ const carlos = {
 <td align="center">
 <a href="https://github.com/AvilaCarlosDev/mcp-doctor">
 <strong>🩺 mcp-doctor</strong><br/>
-Diagnostico de servidores MCP<br/>
+Diagnose MCP servers<br/>
 TypeScript + npm
 </a>
 </td>
 <td align="center">
 <a href="https://github.com/AvilaCarlosDev/hyprland-macos-dotfiles">
 <strong>🖥️ Hyprland Dotfiles</strong><br/>
-Arch + Hyprland, menus propios<br/>
+Arch + Hyprland, custom menus<br/>
 Python + GTK + Lua
 </a>
 </td>
 <td align="center">
 <a href="https://github.com/AvilaCarlosDev/repo-maintenance-bot">
 <strong>🤖 Repo Maintenance Bot</strong><br/>
-Mantenimiento multi-repo seguro<br/>
+Safe multi-repo maintenance<br/>
 Bash + Systemd
 </a>
 </td>
 <td align="center">
 <a href="https://github.com/AvilaCarlosDev/awesome-venezuela-dev">
 <strong>🇻🇪 Awesome VE Dev</strong><br/>
-Recursos para devs en Venezuela<br/>
+Resources for devs in Venezuela<br/>
 Community-driven
 </a>
 </td>
@@ -155,7 +155,7 @@ Community-driven
 
 </div>
 
-> Si estas aprendiendo a programar y te trabaste en algo, escribeme. Es literalmente a lo que me dedico.
+> If you are learning to code and got stuck on something, reach out. Helping with that is literally my job.
 
 ---
 
