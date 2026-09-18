@@ -27,7 +27,7 @@ const carlos = {
   currentlyLearning: ["OpenClaw", "AI Agents", "System Design"],
   passions: ["Coding", "Anime", "Video Games", "Family Time"],
   signature: "<CA/>",
-  portfolio: "https://carlos-avila-portfolio.vercel.app"
+  portfolio: "https://avilacarlosdev.com"
 };
 ```
 
