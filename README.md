@@ -54,9 +54,9 @@ TypeScript + npm
 </a>
 </td>
 <td align="center">
-<a href="https://github.com/AvilaCarlosDev/hyprglass">
-<strong>🖥️ hyprglass</strong><br/>
-Arch + Hyprland, custom menus<br/>
+<a href="https://github.com/AvilaCarlosDev/vaho">
+<strong>🖥️ vaho</strong><br/>
+Arch + Hyprland, frosted-glass desktop<br/>
 Python + GTK + Lua
 </a>
 </td>
@@ -86,8 +86,8 @@ Community-driven
 <table>
 <tr>
 <td align="center">
-<a href="https://github.com/AvilaCarlosDev/free-apis-ia-espanol">
-<img src="https://github-readme-stats-fast-mine.vercel.app/api/pin/?username=AvilaCarlosDev&repo=free-apis-ia-espanol&theme=radical&show_owner=true" alt="free-apis-ia-espanol" width="300"/>
+<a href="https://github.com/AvilaCarlosDev/apis-gratis-es">
+<img src="https://github-readme-stats-fast-mine.vercel.app/api/pin/?username=AvilaCarlosDev&repo=apis-gratis-es&theme=radical&show_owner=true" alt="apis-gratis-es" width="300"/>
 </a>
 </td>
 <td align="center">
