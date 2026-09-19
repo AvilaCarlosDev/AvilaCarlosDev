@@ -47,15 +47,15 @@ const carlos = {
 <table>
 <tr>
 <td align="center">
-<a href="https://github.com/AvilaCarlosDev/mcp-doctor">
-<strong>🩺 mcp-doctor</strong><br/>
+<a href="https://github.com/AvilaCarlosDev/mcp-readiness-check">
+<strong>🩺 mcp-readiness-check</strong><br/>
 Diagnose MCP servers<br/>
 TypeScript + npm
 </a>
 </td>
 <td align="center">
-<a href="https://github.com/AvilaCarlosDev/hyprland-macos-dotfiles">
-<strong>🖥️ Hyprland Dotfiles</strong><br/>
+<a href="https://github.com/AvilaCarlosDev/hyprglass">
+<strong>🖥️ hyprglass</strong><br/>
 Arch + Hyprland, custom menus<br/>
 Python + GTK + Lua
 </a>
@@ -85,11 +85,6 @@ Community-driven
 <div align="center">
 <table>
 <tr>
-<td align="center">
-<a href="https://github.com/AvilaCarlosDev/radar-junior-remoto">
-<img src="https://github-readme-stats-fast-mine.vercel.app/api/pin/?username=AvilaCarlosDev&repo=radar-junior-remoto&theme=radical&show_owner=true" alt="radar-junior-remoto" width="300"/>
-</a>
-</td>
 <td align="center">
 <a href="https://github.com/AvilaCarlosDev/free-apis-ia-espanol">
 <img src="https://github-readme-stats-fast-mine.vercel.app/api/pin/?username=AvilaCarlosDev&repo=free-apis-ia-espanol&theme=radical&show_owner=true" alt="free-apis-ia-espanol" width="300"/>
