@@ -76,25 +76,11 @@ Resources for devs in Venezuela<br/>
 Community-driven
 </a>
 </td>
-</tr>
-</table>
-</div>
-
----
-
-## 📌 Extra Pinned Projects
-
-<div align="center">
-<table>
-<tr>
 <td align="center">
 <a href="https://github.com/AvilaCarlosDev/apis-gratis-es">
-<img src="https://github-readme-stats-fast-mine.vercel.app/api/pin/?username=AvilaCarlosDev&repo=apis-gratis-es&theme=radical&show_owner=true" alt="apis-gratis-es" width="300"/>
-</a>
-</td>
-<td align="center">
-<a href="https://github.com/AvilaCarlosDev/libro-de-prompts-ia-generativa">
-<img src="https://github-readme-stats-fast-mine.vercel.app/api/pin/?username=AvilaCarlosDev&repo=libro-de-prompts-ia-generativa&theme=radical&show_owner=true" alt="libro-de-prompts-ia-generativa" width="300"/>
+<strong>📚 apis-gratis-es</strong><br/>
+Verified free APIs catalog (ES)<br/>
+Python + Node demos
 </a>
 </td>
 </tr>
