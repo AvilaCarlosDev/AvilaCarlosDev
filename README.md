@@ -19,7 +19,7 @@
 
 ```javascript
 const carlos = {
-  role: "Developer & Senior Mentor",
+  role: "Developer · Community & Public Support Specialist · Senior Mentor",
   company: "4Geeks Academy",
   location: "Punto Fijo, Falcon, Venezuela 🇻🇪",
   email: "AvilaValerioCarlos@gmail.com",
@@ -54,9 +54,9 @@ TypeScript + npm
 </a>
 </td>
 <td align="center">
-<a href="https://github.com/AvilaCarlosDev/vaho">
-<strong>🖥️ vaho</strong><br/>
-Arch + Hyprland, frosted-glass desktop<br/>
+<a href="https://github.com/AvilaCarlosDev/bruma-style">
+<strong>🖥️ bruma-style</strong><br/>
+My Arch + Hyprland frosted-glass desktop<br/>
 Python + GTK + Lua
 </a>
 </td>
