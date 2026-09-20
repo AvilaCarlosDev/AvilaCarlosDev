@@ -20,24 +20,26 @@
 ```javascript
 const carlos = {
   role: "Developer · Community & Public Support Specialist · Senior Mentor",
-  company: "4Geeks Academy",
-  location: "Punto Fijo, Falcon, Venezuela 🇻🇪",
-  email: "AvilaValerioCarlos@gmail.com",
-  focus: ["React", "Node.js", "Python", "AI Automation"],
-  currentlyLearning: ["OpenClaw", "AI Agents", "System Design"],
-  passions: ["Coding", "Anime", "Video Games", "Family Time"],
+  building: "Open-source developer tools, in Spanish, with tests and CI",
+  currentlyAt: "4Geeks Academy (part-time) · freelance developer",
+  location: "Punto Fijo, Falcón, Venezuela 🇻🇪",
+  languages: ["Español (nativo)", "English (B1)", "Italiano (B1)"],
+  stack: ["JavaScript", "TypeScript", "React", "Node.js", "Python", "PostgreSQL", "Git", "Docker", "Linux", "AI & agents (MCP)"],
+  email: "avilavaleriocarlos@gmail.com",
   signature: "<CA/>",
   portfolio: "https://avilacarlosdev.com"
 };
 ```
 
-> 🎓 **Community & Public Support Specialist and Senior Mentor at [4Geeks Academy](https://4geeksacademy.com).** I support students who are learning to code: I review their projects, help them debug, and guide them through their learning path.
+> 🛠️ **I build open-source developer tools, in Spanish, with tests and CI:** a verified catalog of 23 free APIs, a CLI that diagnoses MCP servers (94 tests, 94% coverage) and a curated collection of 37 OpenClaw skills. Every figure is measured in the repository, not estimated.
 
-> 🔍 **I thrive on building meaningful digital experiences**, transforming ideas from concept to deployment. As a Developer, I enjoy creating practical software that solves real-world problems and supports communities.
+> ✅ **How I work:** tests before code, real CI, bilingual documentation and data checked against the source. If a claim cannot be verified, it does not go in the README.
 
-> 🤖 **AI Collaboration:** I work alongside AI agents and OpenClaw to build smarter automation workflows and explore the future of human-AI collaboration.
+> 🎓 **Community & Public Support Specialist and Senior Mentor at [4Geeks Academy](https://4geeksacademy.com).** I support students who are learning to code: I review their projects, help them debug and guide their learning path. Explaining a problem clearly is part of how I write code and documentation too.
 
-> 💬 Beyond coding, I am into **anime**, **video games**, and storytelling in all its forms—from movies to K-dramas. I also cherish quality time with my **family**, which keeps me grounded and inspired.
+> 🤖 **AI & automation:** I work with AI agents and OpenClaw to build automation workflows, and I document what works and what does not.
+
+> 💬 Beyond coding: anime, video games, storytelling and time with my family.
 
 ---
 
@@ -144,7 +146,7 @@ Community-driven
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0B2433?style=for-the-badge&logo=vercel&logoColor=white)](https://avilacarlosdev.com)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:AvilaValerioCarlos@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avilavaleriocarlos@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avilacarlosdev)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/avilacarlosdev)
 
