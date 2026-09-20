@@ -25,7 +25,7 @@ const carlos = {
   location: "Punto Fijo, Falcón, Venezuela 🇻🇪",
   languages: ["Español (nativo)", "English (B1)", "Italiano (B1)"],
   stack: ["JavaScript", "TypeScript", "React", "Node.js", "Python", "PostgreSQL", "Git", "Docker", "Linux", "AI & agents (MCP)"],
-  email: "avilavaleriocarlos@gmail.com",
+  email: "contacto@avilacarlosdev.com",
   signature: "<CA/>",
   portfolio: "https://avilacarlosdev.com"
 };
@@ -146,7 +146,7 @@ Community-driven
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0B2433?style=for-the-badge&logo=vercel&logoColor=white)](https://avilacarlosdev.com)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avilavaleriocarlos@gmail.com)
+[![Email](https://img.shields.io/badge/Email-contacto@avilacarlosdev.com-D14836?style=for-the-badge&logoColor=white)](mailto:contacto@avilacarlosdev.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avilacarlosdev)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/avilacarlosdev)
 
