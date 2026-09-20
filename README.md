@@ -178,7 +178,7 @@ Community-driven
 
 **Made with 💚 and ☕ in Venezuela**
 
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding" width="150" />
+<img src="assets/mini-carlos-laptop.png" alt="Mini Carlos programando en su laptop, en pixel art" width="150" />
 
 ---
 
