@@ -178,7 +178,7 @@ Community-driven
 
 **Made with 💚 and ☕ in Venezuela**
 
-<img src="assets/mini-carlos-laptop.png" alt="Mini Carlos programando en su laptop, en pixel art" width="150" />
+<img src="assets/mini-carlos-tecleando.gif" alt="Mini Carlos tecleando en su laptop, en pixel art animado" width="150" />
 
 ---
 
