@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="240" viewBox="0 0 860 240" role="img">
+<defs>
+  <radialGradient id="ha" cx="18%" cy="0%" r="60%"><stop offset="0" stop-color="#2f6fd6" stop-opacity=".55"/><stop offset="1" stop-color="#2f6fd6" stop-opacity="0"/></radialGradient>
+  <radialGradient id="hb" cx="88%" cy="12%" r="45%"><stop offset="0" stop-color="#1f9d6b" stop-opacity=".35"/><stop offset="1" stop-color="#1f9d6b" stop-opacity="0"/></radialGradient>
+  <radialGradient id="hc" cx="68%" cy="100%" r="45%"><stop offset="0" stop-color="#8b5cf6" stop-opacity=".45"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/></radialGradient>
+  <clipPath id="hk"><rect x="1" y="1" width="858" height="238" rx="14"/></clipPath>
+</defs>
+<g clip-path="url(#hk)">
+  <rect width="860" height="240" fill="#0b1220"/>
+  <rect width="860" height="240" fill="url(#ha)"/><rect width="860" height="240" fill="url(#hb)"/><rect width="860" height="240" fill="url(#hc)"/>
+  <rect x="26" y="24" width="808" height="192" rx="12" fill="#070b14" fill-opacity=".86"/>
+</g>
+<rect x="1" y="1" width="858" height="238" rx="14" fill="none" stroke="#2b4a78"/>
+<rect x="26" y="24" width="808" height="192" rx="12" fill="none" stroke="#2b4a78" stroke-opacity=".8"/>
+
+<circle cx="100" cy="106" r="44" fill="#13233d"/><text x="100" y="118" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="32" font-weight="700" fill="#58a6ff">CA</text><circle cx="100" cy="106" r="46" fill="none" stroke="#58a6ff" stroke-width="2"/>
+<text x="166" y="72" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" font-weight="700" letter-spacing="2" fill="#8b98ad">@avilacarlosdev</text>
+<text x="166" y="118" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="42" font-weight="800" fill="#f0f6fc">Carlos Avila</text>
+<text x="168" y="146" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#8b98ad">Developer🧑🏽‍💻 |🌎 Community &amp; Public Support Specialist 🤝 | 🎓 Senior Mentor</text>
+<rect x="56" y="162" width="90" height="24" rx="12" fill="#0d1626" stroke="#3a5f96"/><text x="68" y="178" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#c9d7ea">JavaScript</text><rect x="156" y="162" width="64" height="24" rx="12" fill="#0d1626" stroke="#3a5f96"/><text x="168" y="178" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#c9d7ea">Python</text><rect x="230" y="162" width="44" height="24" rx="12" fill="#0d1626" stroke="#3a5f96"/><text x="242" y="178" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#c9d7ea">CSS</text><rect x="284" y="162" width="90" height="24" rx="12" fill="#0d1626" stroke="#3a5f96"/><text x="296" y="178" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#c9d7ea">TypeScript</text>
+<text x="760" y="108" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="30" font-weight="800" fill="#58a6ff">18</text>
+<text x="760" y="130" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" font-weight="600" letter-spacing="2" fill="#8b98ad">TOTAL STARS</text>
+</svg>

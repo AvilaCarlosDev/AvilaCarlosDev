@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="260" viewBox="0 0 860 260" role="img">
+<defs>
+  <radialGradient id="sa" cx="18%" cy="0%" r="60%"><stop offset="0" stop-color="#2f6fd6" stop-opacity=".55"/><stop offset="1" stop-color="#2f6fd6" stop-opacity="0"/></radialGradient>
+  <radialGradient id="sb" cx="88%" cy="12%" r="45%"><stop offset="0" stop-color="#1f9d6b" stop-opacity=".35"/><stop offset="1" stop-color="#1f9d6b" stop-opacity="0"/></radialGradient>
+  <radialGradient id="sc" cx="68%" cy="100%" r="45%"><stop offset="0" stop-color="#8b5cf6" stop-opacity=".45"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/></radialGradient>
+  <clipPath id="sk"><rect x="1" y="1" width="858" height="258" rx="14"/></clipPath>
+</defs>
+<g clip-path="url(#sk)">
+  <rect width="860" height="260" fill="#0b1220"/>
+  <rect width="860" height="260" fill="url(#sa)"/><rect width="860" height="260" fill="url(#sb)"/><rect width="860" height="260" fill="url(#sc)"/>
+  <rect x="26" y="24" width="808" height="212" rx="12" fill="#070b14" fill-opacity=".86"/>
+</g>
+<rect x="1" y="1" width="858" height="258" rx="14" fill="none" stroke="#2b4a78"/>
+<rect x="26" y="24" width="808" height="212" rx="12" fill="none" stroke="#2b4a78" stroke-opacity=".8"/>
+
+<text x="46" y="62" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="24" font-weight="800" fill="#f0f6fc">Profile Signal</text>
+<text x="47" y="84" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" letter-spacing="1" fill="#8b98ad">Live GitHub stats · actualizado 2026-10-04</text>
+<rect x="44" y="100" width="184" height="120" rx="12" fill="#0a111e" stroke="#2b4a78"/>
+<text x="64" y="132" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" letter-spacing="1" fill="#8b98ad">Stars</text>
+<text x="64" y="174" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="32" font-weight="800" fill="#58a6ff">18</text>
+<rect x="64" y="192" width="144" height="6" rx="3" fill="#1b2a44"/><rect x="64" y="192" width="60.9" height="6" rx="3" fill="#58a6ff"/>
+<rect x="240" y="100" width="184" height="120" rx="12" fill="#0a111e" stroke="#2b4a78"/>
+<text x="260" y="132" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" letter-spacing="1" fill="#8b98ad">Contributions</text>
+<text x="260" y="174" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="32" font-weight="800" fill="#22d3ee">1,056</text>
+<rect x="260" y="192" width="144" height="6" rx="3" fill="#1b2a44"/><rect x="260" y="192" width="144.0" height="6" rx="3" fill="#22d3ee"/>
+<rect x="436" y="100" width="184" height="120" rx="12" fill="#0a111e" stroke="#2b4a78"/>
+<text x="456" y="132" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" letter-spacing="1" fill="#8b98ad">Repos</text>
+<text x="456" y="174" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="32" font-weight="800" fill="#a371f7">17</text>
+<rect x="456" y="192" width="144" height="6" rx="3" fill="#1b2a44"/><rect x="456" y="192" width="59.8" height="6" rx="3" fill="#a371f7"/>
+<rect x="632" y="100" width="184" height="120" rx="12" fill="#0a111e" stroke="#2b4a78"/>
+<text x="652" y="132" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" letter-spacing="1" fill="#8b98ad">Followers</text>
+<text x="652" y="174" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="32" font-weight="800" fill="#3fb950">47</text>
+<rect x="652" y="192" width="144" height="6" rx="3" fill="#1b2a44"/><rect x="652" y="192" width="80.1" height="6" rx="3" fill="#3fb950"/>
+</svg>
