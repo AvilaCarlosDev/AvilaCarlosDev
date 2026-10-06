@@ -37,7 +37,7 @@ const carlos = {
 
 > 🎓 **Community & Public Support Specialist and Senior Mentor at [4Geeks Academy](https://4geeksacademy.com).** I support students who are learning to code: I review their projects, help them debug and guide their learning path. Explaining a problem clearly is part of how I write code and documentation too.
 
-> 🤖 **AI & automation:** I work with AI agents and OpenClaw to build automation workflows, and I document what works and what does not.
+> 🤖 **AI & automation:** I work with AI agents (Hermes Agent and OpenCode, plus Claude and Codex in some cases) to build automation workflows, and I document what works and what does not.
 
 > 💬 Beyond coding: anime, video games, storytelling and time with my family.
 
@@ -92,7 +92,7 @@ React + Vite + Tailwind
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1a1a1a) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white&labelColor=1a1a1a) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=1a1a1a)
 
 ### 🤖 AI & Automation
-![MCP](https://img.shields.io/badge/MCP-FF8C69?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=1a1a1a) ![OpenClaw](https://img.shields.io/badge/OpenClaw-42FFA1?style=for-the-badge&logo=github&logoColor=black&labelColor=1a1a1a) ![AI Agents](https://img.shields.io/badge/AI_Agents-FF8C69?style=for-the-badge&logo=openai&logoColor=white&labelColor=1a1a1a)
+![MCP](https://img.shields.io/badge/MCP-FF8C69?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=1a1a1a) ![Hermes Agent](https://img.shields.io/badge/Hermes_Agent-42FFA1?style=for-the-badge&logoColor=black&labelColor=1a1a1a) ![OpenCode](https://img.shields.io/badge/OpenCode-42FFA1?style=for-the-badge&logoColor=black&labelColor=1a1a1a) ![AI Agents](https://img.shields.io/badge/AI_Agents-FF8C69?style=for-the-badge&logo=openai&logoColor=white&labelColor=1a1a1a)
 
 ### 🛠️ Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1a1a) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1a1a1a) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=1a1a1a) ![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF?style=for-the-badge&logo=wayland&logoColor=white&labelColor=1a1a1a) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a1a)
