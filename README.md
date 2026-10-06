@@ -31,7 +31,7 @@ const carlos = {
 };
 ```
 
-> 🛠️ **I build open-source developer tools, in Spanish, with tests and CI:** a verified catalog of 23 free APIs, a CLI that diagnoses MCP servers (94 tests, 94% coverage) and a curated collection of 37 OpenClaw skills. Every figure is measured in the repository, not estimated.
+> 🛠️ **I build open-source developer tools, in Spanish, with tests and CI:** a local AI stack for an 8 GB RX 580 with measured benchmarks, a CLI that diagnoses MCP servers (94 tests, 94% coverage) and a verified catalog of 23 free APIs. Every figure is measured in the repository, not estimated.
 
 > ✅ **How I work:** tests before code, real CI, bilingual documentation and data checked against the source. If a claim cannot be verified, it does not go in the README.
 
