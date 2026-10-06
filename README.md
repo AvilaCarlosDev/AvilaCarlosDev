@@ -49,38 +49,24 @@ const carlos = {
 <table>
 <tr>
 <td align="center">
+<a href="https://github.com/AvilaCarlosDev/polaris-local-ai">
+<strong>🧠 polaris-local-ai</strong><br/>
+Local AI stack on an RX 580 8 GB<br/>
+Python + Vulkan + llama.cpp
+</a>
+</td>
+<td align="center">
 <a href="https://github.com/AvilaCarlosDev/mcp-readiness-check">
 <strong>🩺 mcp-readiness-check</strong><br/>
 Diagnose MCP servers<br/>
-TypeScript + npm
+TypeScript CLI
 </a>
 </td>
 <td align="center">
-<a href="https://github.com/AvilaCarlosDev/bruma-style">
-<strong>🖥️ bruma-style</strong><br/>
-My Arch + Hyprland frosted-glass desktop<br/>
-Python + GTK + Lua
-</a>
-</td>
-<td align="center">
-<a href="https://github.com/AvilaCarlosDev/repo-maintenance-bot">
-<strong>🤖 Repo Maintenance Bot</strong><br/>
-Safe multi-repo maintenance<br/>
-Bash + Systemd
-</a>
-</td>
-<td align="center">
-<a href="https://github.com/AvilaCarlosDev/awesome-venezuela-dev">
-<strong>🇻🇪 Awesome VE Dev</strong><br/>
-Resources for devs in Venezuela<br/>
-Community-driven
-</a>
-</td>
-<td align="center">
-<a href="https://github.com/AvilaCarlosDev/apis-gratis-es">
-<strong>📚 apis-gratis-es</strong><br/>
-Verified free APIs catalog (ES)<br/>
-Python + Node demos
+<a href="https://github.com/AvilaCarlosDev/landing-delivery-demo">
+<strong>🛵 landing-delivery-demo</strong><br/>
+Delivery marketplace landing demo<br/>
+React + Vite + Tailwind
 </a>
 </td>
 </tr>
