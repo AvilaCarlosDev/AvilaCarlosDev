@@ -58,7 +58,7 @@ React + Supabase · 160 tests
 </td>
 <td align="center" width="50%">
 <a href="https://github.com/AvilaCarlosDev/polaris-local-ai">
-<img src="assets/projects/polaris-local-ai.jpg" alt="Floating island in voxels: the animated 3D scene of polaris-local-ai with water, palms and a lighthouse" width="100%"><br/>
+<video src="assets/projects/isla.mp4" poster="assets/projects/isla-poster.webp" autoplay loop muted playsinline width="100%"></video><br/>
 <strong>🧠 polaris-local-ai</strong><br/>
 Local AI stack on an RX 580 8 GB<br/>
 Python + Vulkan + llama.cpp
@@ -68,17 +68,17 @@ Python + Vulkan + llama.cpp
 <tr>
 <td align="center" width="50%">
 <a href="https://github.com/AvilaCarlosDev/apis-gratis-es">
-<img src="assets/projects/apis-gratis-es.jpg" alt="apis-gratis-es demos page: store, weather, holidays, location, encyclopedia and the API catalog" width="100%"><br/>
+<img src="assets/projects/apis-gratis-es.jpg" alt="apis-gratis-es home page: free APIs that work, tested in real apps, with the Location demo map and weather card" width="100%"><br/>
 <strong>📚 apis-gratis-es</strong><br/>
 Verified catalog of 23 free APIs + 5 live demos<br/>
 Python + JS · 351 tests
 </a>
 </td>
 <td align="center" width="50%">
-<a href="https://github.com/AvilaCarlosDev/web-delivery-demo">
-<img src="assets/projects/web-delivery-demo.jpg" alt="CraveNow on desktop and mobile: delivery marketplace portada with search, active order and coupon" width="100%"><br/>
-<strong>🛵 web-delivery-demo</strong><br/>
-Delivery marketplace demo for local businesses<br/>
+<a href="https://avilacarlosdev.github.io/webs-para-negocios/">
+<img src="assets/projects/webs-para-negocios.jpg" alt="Catalog of the six business website demos: CraveNow, Noble Barber, RutaFija, Siena Flower, ObraMax and SportZone" width="100%"><br/>
+<strong>🌐 Webs para negocios</strong><br/>
+Catalog of 6 live demos for local businesses<br/>
 React + Vite + Tailwind
 </a>
 </td>
