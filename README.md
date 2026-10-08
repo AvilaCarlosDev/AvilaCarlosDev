@@ -31,7 +31,7 @@ const carlos = {
 };
 ```
 
-> 🛠️ **I build open-source developer tools, in Spanish, with tests and CI:** a local AI stack for an 8 GB RX 580 with measured benchmarks, a CLI that diagnoses MCP servers (94 tests, 94% coverage) and a verified catalog of 23 free APIs. Every figure is measured in the repository, not estimated.
+> 🛠️ **I build open-source developer tools, in Spanish, with tests and CI:** a local AI stack for an 8 GB RX 580 with measured benchmarks and a verified catalog of 23 free APIs with five live demos. Every figure is measured in the repository, not estimated.
 
 > ✅ **How I work:** tests before code, real CI, bilingual documentation and data checked against the source. If a claim cannot be verified, it does not go in the README.
 
@@ -48,24 +48,37 @@ const carlos = {
 <div align="center">
 <table>
 <tr>
-<td align="center">
+<td align="center" width="50%">
+<a href="https://github.com/AvilaCarlosDev/Forja">
+<img src="assets/projects/forja.jpg" alt="Forja on the phone: routines assigned by the coach, weight evolution chart and the meal plan" width="100%"><br/>
+<strong>🏋️ Forja</strong><br/>
+Training app for coaches, in production<br/>
+React + Supabase · 160 tests
+</a>
+</td>
+<td align="center" width="50%">
 <a href="https://github.com/AvilaCarlosDev/polaris-local-ai">
+<img src="assets/projects/polaris-local-ai.jpg" alt="Floating island in voxels: the animated 3D scene of polaris-local-ai with water, palms and a lighthouse" width="100%"><br/>
 <strong>🧠 polaris-local-ai</strong><br/>
 Local AI stack on an RX 580 8 GB<br/>
 Python + Vulkan + llama.cpp
 </a>
 </td>
-<td align="center">
-<a href="https://github.com/AvilaCarlosDev/mcp-readiness-check">
-<strong>🩺 mcp-readiness-check</strong><br/>
-Diagnose MCP servers<br/>
-TypeScript CLI
+</tr>
+<tr>
+<td align="center" width="50%">
+<a href="https://github.com/AvilaCarlosDev/apis-gratis-es">
+<img src="assets/projects/apis-gratis-es.jpg" alt="apis-gratis-es demos page: store, weather, holidays, location, encyclopedia and the API catalog" width="100%"><br/>
+<strong>📚 apis-gratis-es</strong><br/>
+Verified catalog of 23 free APIs + 5 live demos<br/>
+Python + JS · 351 tests
 </a>
 </td>
-<td align="center">
-<a href="https://github.com/AvilaCarlosDev/landing-delivery-demo">
-<strong>🛵 landing-delivery-demo</strong><br/>
-Delivery marketplace landing demo<br/>
+<td align="center" width="50%">
+<a href="https://github.com/AvilaCarlosDev/web-delivery-demo">
+<img src="assets/projects/web-delivery-demo.jpg" alt="CraveNow on desktop and mobile: delivery marketplace portada with search, active order and coupon" width="100%"><br/>
+<strong>🛵 web-delivery-demo</strong><br/>
+Delivery marketplace demo for local businesses<br/>
 React + Vite + Tailwind
 </a>
 </td>
