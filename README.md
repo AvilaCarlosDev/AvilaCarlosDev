@@ -21,7 +21,7 @@ React, Node.js, Python and Supabase/PostgreSQL. Senior Mentor at [4Geeks Academy
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/AvilaCarlosDev/Forja"><img src="assets/projects/forja.jpg" alt="Forja on a phone: routines a coach assigns, weight progress chart and a client's diet"></a>
+<a href="https://github.com/AvilaCarlosDev/Forja"><img src="assets/projects/forja-island-animated.webp" alt="Animated voxel island with a giant straw hat, a ship and the sea"></a>
 <h3><a href="https://github.com/AvilaCarlosDev/Forja">Forja</a> · <a href="https://forja-trainer.vercel.app">live app</a></h3>
 App for personal trainers and their clients: assigned routines, diet, measurements, progress charts and payments. <b>In production.</b><br>
 <sub>React · Supabase · PostgreSQL RLS · PWA — 160 tests, 109 permission tests, 13 migrations</sub>
