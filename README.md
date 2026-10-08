@@ -58,7 +58,7 @@ React + Supabase · 160 tests
 </td>
 <td align="center" width="50%">
 <a href="https://github.com/AvilaCarlosDev/polaris-local-ai">
-<video src="assets/projects/isla.mp4" poster="assets/projects/isla-poster.webp" autoplay loop muted playsinline width="100%"></video><br/>
+<img src="assets/projects/polaris-isla-animated.webp" alt="Animated voxel island with a golden hat, palms and sailboat: the polaris-local-ai 3D scene" width="100%"><br/>
 <strong>🧠 polaris-local-ai</strong><br/>
 Local AI stack on an RX 580 8 GB<br/>
 Python + Vulkan + llama.cpp
