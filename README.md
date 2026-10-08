@@ -51,6 +51,8 @@ Verified catalog of free public APIs for Spanish-speaking developers, with demos
 
 **Websites for businesses:** delivery, barbershop, sports store, hardware store, florist and taxi — six published demos that take orders over WhatsApp. [See them on my portfolio →](https://avilacarlosdev.com/#negocios)
 
+<a href="https://avilacarlosdev.com/#negocios"><img src="assets/projects/business-demos.jpg" alt="Six one-page business websites: delivery, barbershop, sports store, hardware store, florist and taxi, each with a phone menu and WhatsApp ordering"></a>
+
 ## Stack
 
 `JavaScript` `TypeScript` `React` `Node.js` `Python` `PostgreSQL` `Supabase` `Astro` `Vite` `Docker` `Linux` `Git` `MCP`
