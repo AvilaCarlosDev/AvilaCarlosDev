@@ -1,62 +1,159 @@
-<!-- Carlos Avila · GitHub profile README -->
+<!--
+  Carlos Avila - GitHub Profile README
+  Developer | AI Enthusiast | Open Source Lover
+-->
 
-# Hi, I'm Carlos 👋
+<div align="center">
 
-**Full-stack developer from Venezuela 🇻🇪. I build web apps that are in production, developer tools with tests, and websites for small businesses.**
+![GitHub Banner](https://capsule-render.vercel.app/api?type=waving&color=0B2433,F2B84B,D64532&height=300&section=header&text=Carlos%20Avila&fontSize=86&fontColor=FFF7DC&fontAlignY=34&desc=%3CCA%2F%3E%20Developer%20%E2%80%A2%20Web%20%7C%20AI%20%7C%20Community&descSize=22&descAlignY=52&descAlign=50&animation=twinkling)
 
-React, Node.js, Python and Supabase/PostgreSQL. Senior Mentor at [4Geeks Academy](https://4geeksacademy.com), where I review projects and help people debug every day. Every number in my READMEs is measured in the repository, not estimated. *Hablo español: también trabajo con clientes en español.*
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=42FFA1&center=true&vCenter=true&width=600&lines=Developer+from+Venezuela+%F0%9F%87%BB%F0%9F%87%AA;Senior+Mentor+at+4Geeks+Academy;Developer+tooling+%7C+MCP+%7C+Linux;Docs+in+Spanish+for+LATAM+devs)](https://github.com/AvilaCarlosDev)
 
-[**Portfolio**](https://avilacarlosdev.com) · [**LinkedIn**](https://www.linkedin.com/in/avilacarlosdev) · [**Email**](mailto:contacto@avilacarlosdev.com) · [**CV (PDF)**](https://avilacarlosdev.com/Carlos-Avila-CV-EN.pdf)
+<p align="center"><code>&lt;CA/&gt;</code> Building useful things with code, AI and community.</p>
+
+</div>
 
 ---
 
-## What I build
+## 👨🏽‍💻 About Me
 
-| 📱 Web apps in production | 🛠️ Developer tools | 🏪 Websites for businesses |
-|---|---|---|
-| Full apps with accounts, roles and row-level security: React + Supabase, installable as a PWA. | CLIs and local AI tooling in TypeScript and Python, with CI and real test coverage. | Fast landing pages that take orders and bookings over WhatsApp, published on Vercel. |
+```javascript
+const carlos = {
+  role: "Developer · Community & Public Support Specialist · Senior Mentor",
+  building: "Open-source developer tools, in Spanish, with tests and CI",
+  currentlyAt: "4Geeks Academy (part-time) · freelance developer",
+  location: "Punto Fijo, Falcón, Venezuela 🇻🇪",
+  languages: ["Español (nativo)", "English (B1)", "Italiano (B1)"],
+  stack: ["JavaScript", "TypeScript", "React", "Node.js", "Python", "PostgreSQL", "Git", "Docker", "Linux", "AI & agents (MCP)"],
+  email: "contacto@avilacarlosdev.com",
+  signature: "<CA/>",
+  portfolio: "https://avilacarlosdev.com"
+};
+```
 
-## Featured projects
+> 🛠️ **I build open-source developer tools, in Spanish, with tests and CI:** a local AI stack for an 8 GB RX 580 with measured benchmarks, a CLI that diagnoses MCP servers (94 tests, 94% coverage) and a verified catalog of 23 free APIs. Every figure is measured in the repository, not estimated.
 
+> ✅ **How I work:** tests before code, real CI, bilingual documentation and data checked against the source. If a claim cannot be verified, it does not go in the README.
+
+> 🎓 **Community & Public Support Specialist and Senior Mentor at [4Geeks Academy](https://4geeksacademy.com).** I support students who are learning to code: I review their projects, help them debug and guide their learning path. Explaining a problem clearly is part of how I write code and documentation too.
+
+> 🤖 **AI & automation:** I work with AI agents (Hermes Agent and OpenCode, plus Claude and Codex in some cases) to build automation workflows, and I document what works and what does not.
+
+> 💬 Beyond coding: anime, video games, storytelling and time with my family.
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
 <table>
 <tr>
-<td width="50%" valign="top">
-<a href="https://github.com/AvilaCarlosDev/Forja"><img src="assets/projects/forja-island-animated.webp" alt="Animated voxel island with a giant straw hat, a ship and the sea"></a>
-<h3><a href="https://github.com/AvilaCarlosDev/Forja">Forja</a> · <a href="https://forja-trainer.vercel.app">live app</a></h3>
-App for personal trainers and their clients: assigned routines, diet, measurements, progress charts and payments. <b>In production.</b><br>
-<sub>React · Supabase · PostgreSQL RLS · PWA — 160 tests, 109 permission tests, 13 migrations</sub>
+<td align="center">
+<a href="https://github.com/AvilaCarlosDev/polaris-local-ai">
+<strong>🧠 polaris-local-ai</strong><br/>
+Local AI stack on an RX 580 8 GB<br/>
+Python + Vulkan + llama.cpp
+</a>
 </td>
-<td width="50%" valign="top">
-<a href="https://github.com/AvilaCarlosDev/polaris-local-ai"><img src="assets/projects/polaris-local-ai.jpg" alt="FLOATING ISLAND MIRAGE: a voxel island with a straw hat, palm trees and a ship, rendered and encoded on the same RX 580 that runs polaris-local-ai"></a>
-<h3><a href="https://github.com/AvilaCarlosDev/polaris-local-ai">polaris-local-ai</a></h3>
-Local AI stack for an 8 GB AMD RX 580: an OpenAI-compatible router serving text, vision and image models on Vulkan, no cloud.<br>
-<sub>Python · Vulkan · llama.cpp — 6 text/vision models, 2 image models, 25 tests</sub>
+<td align="center">
+<a href="https://github.com/AvilaCarlosDev/mcp-readiness-check">
+<strong>🩺 mcp-readiness-check</strong><br/>
+Diagnose MCP servers<br/>
+TypeScript CLI
+</a>
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/AvilaCarlosDev/mcp-readiness-check"><img src="assets/projects/mcp-readiness-check.jpg" alt="mcp-readiness-check report in the terminal: 13 checks passed on a sample MCP server"></a>
-<h3><a href="https://github.com/AvilaCarlosDev/mcp-readiness-check">mcp-readiness-check</a></h3>
-CLI that connects to an MCP server, inspects the tools it exposes, validates their schemas and writes console, JSON and Markdown reports.<br>
-<sub>TypeScript · Node.js — 94 tests, 94% coverage</sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://avilacarlosdev.github.io/apis-gratis-es/"><img src="assets/projects/apis-gratis-es.jpg" alt="apis-gratis-es demos page: store, weather, holidays, location and encyclopedia"></a>
-<h3><a href="https://github.com/AvilaCarlosDev/apis-gratis-es">apis-gratis-es</a> · <a href="https://avilacarlosdev.github.io/apis-gratis-es/">live demos</a></h3>
-Verified catalog of free public APIs for Spanish-speaking developers, with demos that work live.<br>
-<sub>Python · JavaScript — 23 verified APIs, 5 demos, 351 tests</sub>
+<td align="center">
+<a href="https://github.com/AvilaCarlosDev/landing-delivery-demo">
+<strong>🛵 landing-delivery-demo</strong><br/>
+Delivery marketplace landing demo<br/>
+React + Vite + Tailwind
+</a>
 </td>
 </tr>
 </table>
+</div>
 
-**Websites for businesses:** delivery, barbershop, sports store, hardware store, florist and taxi — six published demos that take orders over WhatsApp. [See them on my portfolio →](https://avilacarlosdev.com/#negocios)
+---
 
-## Stack
+## 🛠️ Tech Stack
 
-`JavaScript` `TypeScript` `React` `Node.js` `Python` `PostgreSQL` `Supabase` `Astro` `Vite` `Docker` `Linux` `Git` `MCP`
+<div align="center">
 
-## Let's work together
+### 💻 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1a1a1a) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1a1a1a) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a1a) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=1a1a1a)
 
-Open to **freelance projects** and **remote full-stack roles**. Write to [contacto@avilacarlosdev.com](mailto:contacto@avilacarlosdev.com) or through the [contact form on my portfolio](https://avilacarlosdev.com/#contacto).
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=1a1a1a) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white&labelColor=1a1a1a) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1a1a1a) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1a1a1a) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=1a1a1a)
 
-<p align="center"><img src="assets/mini-carlos-tecleando.gif" alt="Pixel-art Carlos typing on his laptop" width="110"></p>
+### 🔧 Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=1a1a1a) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=1a1a1a)
+
+### 🗄️ Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1a1a1a) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white&labelColor=1a1a1a) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=1a1a1a)
+
+### 🤖 AI & Automation
+![MCP](https://img.shields.io/badge/MCP-FF8C69?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=1a1a1a) ![Hermes Agent](https://img.shields.io/badge/Hermes_Agent-42FFA1?style=for-the-badge&logoColor=black&labelColor=1a1a1a) ![OpenCode](https://img.shields.io/badge/OpenCode-42FFA1?style=for-the-badge&logoColor=black&labelColor=1a1a1a) ![AI Agents](https://img.shields.io/badge/AI_Agents-FF8C69?style=for-the-badge&logo=openai&logoColor=white&labelColor=1a1a1a)
+
+### 🛠️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1a1a) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1a1a1a) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=1a1a1a) ![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF?style=for-the-badge&logo=wayland&logoColor=white&labelColor=1a1a1a) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a1a)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Carlos GitHub Stats](https://github-readme-stats-fast-mine.vercel.app/api?username=AvilaCarlosDev&show_icons=true&theme=radical&hide_border=true&title_color=42ffa1&icon_color=ff8c69&text_color=c9d1d9&bg_color=0d1117&cache_seconds=0)
+
+![Top Languages](https://github-readme-stats-fast-mine.vercel.app/api/top-langs/?username=AvilaCarlosDev&layout=compact&theme=radical&hide_border=true&title_color=42ffa1&text_color=c9d1d9&bg_color=0d1117&cache_seconds=0)
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0B2433?style=for-the-badge&logo=vercel&logoColor=white)](https://avilacarlosdev.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logoColor=white)](mailto:contacto@avilacarlosdev.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avilacarlosdev)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/avilacarlosdev)
+
+</div>
+
+> If you are learning to code and got stuck on something, reach out. Helping with that is literally my job.
+
+---
+
+## ☕ Support My Work
+
+<div align="center">
+
+<a href="https://www.buymeacoffee.com/AvilaCarlosDev" target="_blank">
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" width="217" />
+</a>
+
+*Your support keeps the coffee flowing and the code coming!* ☕🚀
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌟 Thanks for visiting my profile!
+
+![Visitor Count](https://komarev.com/ghpvc/?username=AvilaCarlosDev&label=Profile+Views&color=42ffa1&style=flat-square&logo=github)
+
+**Made with 💚 and ☕ in Venezuela**
+
+<img src="assets/mini-carlos-tecleando.gif" alt="Mini Carlos tecleando en su laptop, en pixel art animado" width="150" />
+
+---
+
+> ✨ *"Code is like humor. When you have to explain it, it is bad."* — Cory House
+
+</div>
