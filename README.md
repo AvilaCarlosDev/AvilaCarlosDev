@@ -118,9 +118,9 @@ React + Vite + Tailwind
 
 <div align="center">
 
-![Carlos GitHub Stats](https://github-readme-stats-fast-mine.vercel.app/api?username=AvilaCarlosDev&show_icons=true&theme=radical&hide_border=true&title_color=42ffa1&icon_color=ff8c69&text_color=c9d1d9&bg_color=0d1117&cache_seconds=0)
+![Carlos GitHub Stats](https://github-readme-stats-fast-mine.vercel.app/api?username=AvilaCarlosDev&show_icons=true&theme=radical&hide_border=true&title_color=42ffa1&icon_color=ff8c69&text_color=c9d1d9&bg_color=0d1117&cache_seconds=21600)
 
-![Top Languages](https://github-readme-stats-fast-mine.vercel.app/api/top-langs/?username=AvilaCarlosDev&layout=compact&theme=radical&hide_border=true&title_color=42ffa1&text_color=c9d1d9&bg_color=0d1117&cache_seconds=0)
+![Top Languages](https://github-readme-stats-fast-mine.vercel.app/api/top-langs/?username=AvilaCarlosDev&layout=compact&theme=radical&hide_border=true&title_color=42ffa1&text_color=c9d1d9&bg_color=0d1117&cache_seconds=21600&exclude_repo=jardin-gratitud-mama,jardin-para-mi-esposa)
 
 </div>
 
