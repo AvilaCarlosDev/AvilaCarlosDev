@@ -96,7 +96,7 @@ React + Vite + Tailwind
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1a1a1a) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1a1a1a) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a1a) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=1a1a1a)
 
 ### 🎨 Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=1a1a1a) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white&labelColor=1a1a1a) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1a1a1a) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1a1a1a) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=1a1a1a)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=1a1a1a) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white&labelColor=1a1a1a) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1a1a1a) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white&labelColor=1a1a1a) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=1a1a1a)
 
 ### 🔧 Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=1a1a1a) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=1a1a1a)
@@ -118,9 +118,9 @@ React + Vite + Tailwind
 
 <div align="center">
 
-![Carlos GitHub Stats](https://github-readme-stats-fast-mine.vercel.app/api?username=AvilaCarlosDev&show_icons=true&theme=radical&hide_border=true&title_color=42ffa1&icon_color=ff8c69&text_color=c9d1d9&bg_color=0d1117&cache_seconds=21600)
+![Carlos GitHub Stats](https://github-readme-stats.vercel.app/api?username=AvilaCarlosDev&show_icons=true&theme=radical&hide_border=true&title_color=42ffa1&icon_color=ff8c69&text_color=c9d1d9&bg_color=0d1117&cache_seconds=21600)
 
-![Top Languages](https://github-readme-stats-fast-mine.vercel.app/api/top-langs/?username=AvilaCarlosDev&layout=compact&theme=radical&hide_border=true&title_color=42ffa1&text_color=c9d1d9&bg_color=0d1117&cache_seconds=21600&exclude_repo=jardin-gratitud-mama,jardin-para-mi-esposa)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AvilaCarlosDev&layout=compact&theme=radical&hide_border=true&title_color=42ffa1&text_color=c9d1d9&bg_color=0d1117&cache_seconds=21600&exclude_repo=jardin-gratitud-mama,jardin-para-mi-esposa)
 
 </div>
 
