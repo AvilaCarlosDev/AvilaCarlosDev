@@ -5,11 +5,11 @@
 
 <div align="center">
 
-![Carlos Avila · Del problema a la solución · Full Stack Developer · AI](assets/banner.png)
+![Carlos Avila · I run my own servers, local AI and apps. Then I try to break them.](assets/banner.png)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=42FFA1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+from+Venezuela+%F0%9F%87%BB%F0%9F%87%AA;Websites+and+apps+that+bring+clients;Developer+tooling+%7C+MCP+%7C+Linux;Docs+in+Spanish+for+LATAM+devs)](https://github.com/AvilaCarlosDev)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=42FFA1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+from+Venezuela+%F0%9F%87%BB%F0%9F%87%AA;Homelab+%7C+Local+AI+on+an+RX+580;Apps+in+production+with+tests;Docs+in+Spanish+for+LATAM+devs)](https://github.com/AvilaCarlosDev)
 
-<p align="center"><code>&lt;CA/&gt;</code> I build websites and apps for businesses that want more clients.<br/><a href="https://avilacarlosdev.com"><b>See my work</b></a> · <a href="mailto:contacto@avilacarlosdev.com"><b>Hire me</b></a></p>
+<p align="center"><code>&lt;CA/&gt;</code> I run my own servers, local AI and apps. Then I try to break them.<br/><a href="https://avilacarlosdev.com"><b>See my work</b></a> · <a href="mailto:contacto@avilacarlosdev.com"><b>Hire me</b></a></p>
 
 </div>
 
@@ -34,6 +34,8 @@ const carlos = {
 > 🛠️ **I build open-source developer tools, in Spanish, with tests and CI:** a local AI stack for an 8 GB RX 580 with measured benchmarks and a verified catalog of 23 free APIs with five live demos. Every figure is measured in the repository, not estimated.
 
 > ✅ **How I work:** tests before code, real CI, bilingual documentation and data checked against the source. If a claim cannot be verified, it does not go in the README.
+
+> 🏠 **Homelab:** two servers with Proxmox, CasaOS and Docker, Pi-hole on both, remote access over Tailscale, n8n, Nextcloud and the local AI from polaris-local-ai. It is where I practice networking and security, in my own lab.
 
 > 💼 **Need a website or app for your business?** I build sites that capture leads (forms, WhatsApp, analytics) and apps like [Forja](https://github.com/AvilaCarlosDev/Forja), a training app for coaches that is in production with 160 tests. Write to [contacto@avilacarlosdev.com](mailto:contacto@avilacarlosdev.com) or see [avilacarlosdev.com](https://avilacarlosdev.com).
 
