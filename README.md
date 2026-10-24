@@ -5,11 +5,11 @@
 
 <div align="center">
 
-![GitHub Banner](https://capsule-render.vercel.app/api?type=waving&color=0B2433,F2B84B,D64532&height=300&section=header&text=Carlos%20Avila&fontSize=86&fontColor=FFF7DC&fontAlignY=34&desc=%3CCA%2F%3E%20Developer%20%E2%80%A2%20Web%20%7C%20AI%20%7C%20Community&descSize=22&descAlignY=52&descAlign=50&animation=twinkling)
+![Carlos Avila · Del problema a la solución · Developer · Web & AI](assets/banner.png)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=42FFA1&center=true&vCenter=true&width=600&lines=Developer+from+Venezuela+%F0%9F%87%BB%F0%9F%87%AA;Senior+Mentor+at+4Geeks+Academy;Developer+tooling+%7C+MCP+%7C+Linux;Docs+in+Spanish+for+LATAM+devs)](https://github.com/AvilaCarlosDev)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=42FFA1&center=true&vCenter=true&width=600&lines=Developer+from+Venezuela+%F0%9F%87%BB%F0%9F%87%AA;Websites+and+apps+that+bring+clients;Developer+tooling+%7C+MCP+%7C+Linux;Docs+in+Spanish+for+LATAM+devs)](https://github.com/AvilaCarlosDev)
 
-<p align="center"><code>&lt;CA/&gt;</code> Building useful things with code, AI and community.</p>
+<p align="center"><code>&lt;CA/&gt;</code> I build websites and apps for businesses that want more clients.<br/><a href="https://avilacarlosdev.com"><b>See my work</b></a> · <a href="mailto:contacto@avilacarlosdev.com"><b>Hire me</b></a></p>
 
 </div>
 
@@ -19,7 +19,7 @@
 
 ```javascript
 const carlos = {
-  role: "Developer · Community & Public Support Specialist · Senior Mentor",
+  role: "Developer · Web & AI",
   building: "Open-source developer tools, in Spanish, with tests and CI",
   currentlyAt: "4Geeks Academy (part-time) · freelance developer",
   location: "Punto Fijo, Falcón, Venezuela 🇻🇪",
@@ -35,7 +35,7 @@ const carlos = {
 
 > ✅ **How I work:** tests before code, real CI, bilingual documentation and data checked against the source. If a claim cannot be verified, it does not go in the README.
 
-> 🎓 **Community & Public Support Specialist and Senior Mentor at [4Geeks Academy](https://4geeksacademy.com).** I support students who are learning to code: I review their projects, help them debug and guide their learning path. Explaining a problem clearly is part of how I write code and documentation too.
+> 💼 **Need a website or app for your business?** I build sites that capture leads (forms, WhatsApp, analytics) and apps like [Forja](https://github.com/AvilaCarlosDev/Forja), a training app for coaches that is in production with 160 tests. Write to [contacto@avilacarlosdev.com](mailto:contacto@avilacarlosdev.com) or see [avilacarlosdev.com](https://avilacarlosdev.com).
 
 > 🤖 **AI & automation:** I work with AI agents (Hermes Agent and OpenCode, plus Claude and Codex in some cases) to build automation workflows, and I document what works and what does not.
 
