@@ -7,9 +7,9 @@
 
 ![AvilaCarlosDev · Developer · Homelab · Local AI. Building software. Hosting services. Keeping data in my control.](assets/banner-avilacarlosdev.jpg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=42FFA1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+from+Venezuela+%F0%9F%87%BB%F0%9F%87%AA;Homelab+%7C+Local+AI+on+an+RX+580;Apps+in+production+with+tests;Docs+in+Spanish+for+LATAM+devs)](https://github.com/AvilaCarlosDev)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=42FFA1&center=true&vCenter=true&width=600&lines=Freelance+developer+from+Venezuela+%F0%9F%87%BB%F0%9F%87%AA;Homelab+%7C+Local+AI+%7C+Privacy;Apps+in+production+with+tests;Docs+in+Spanish+for+LATAM+devs)](https://github.com/AvilaCarlosDev)
 
-<p align="center"><code>&lt;CA/&gt;</code> I run my own servers, local AI and apps. Then I try to break them.<br/><a href="https://avilacarlosdev.com"><b>See my work</b></a> · <a href="mailto:contacto@avilacarlosdev.com"><b>Hire me</b></a></p>
+<p align="center"><code>&lt;CA/&gt;</code> Building software. Hosting services. Keeping data in my control.<br/><a href="https://avilacarlosdev.com"><b>See my work</b></a> · <a href="mailto:contacto@avilacarlosdev.com"><b>Hire me</b></a></p>
 
 </div>
 
@@ -17,9 +17,11 @@
 
 ## 👨🏽‍💻 About Me
 
+I'm a freelance developer working with React, Node.js and Python. I build web solutions for clients and run my own homelab: my servers, my services and my local AI. Privacy, security and control of my data come first.
+
 ```javascript
 const carlos = {
-  role: "Full Stack Developer · AI",
+  role: "Freelance Developer · Homelab · Local AI",
   building: "Open-source developer tools, in Spanish, with tests and CI",
   currentlyAt: "Freelance developer · my own homelab and client projects",
   location: "Punto Fijo, Falcón, Venezuela 🇻🇪",
@@ -35,7 +37,7 @@ const carlos = {
 
 > ✅ **How I work:** tests before code, real CI, bilingual documentation and data checked against the source. If a claim cannot be verified, it does not go in the README.
 
-> 🏠 **Homelab:** two servers with Proxmox, CasaOS and Docker, Pi-hole on both, remote access over Tailscale, n8n, Nextcloud and the local AI from polaris-local-ai. It is where I practice networking and security, in my own lab.
+> 🏠 **Homelab:** two servers and 12 services with Proxmox, CasaOS and Docker, Pi-hole on both, remote access over Tailscale, n8n, Nextcloud and the local AI from polaris-local-ai. It is where I practice networking and security, in my own lab.
 
 > 💼 **Need a website or app for your business?** I build sites that capture leads (forms, WhatsApp, analytics) and apps like [Forja](https://github.com/AvilaCarlosDev/Forja), a training app for coaches that is in production with 160 tests. Write to [contacto@avilacarlosdev.com](mailto:contacto@avilacarlosdev.com) or see [avilacarlosdev.com](https://avilacarlosdev.com).
 
@@ -62,7 +64,7 @@ React + Supabase · 160 tests
 <a href="https://github.com/AvilaCarlosDev/polaris-local-ai">
 <img src="assets/projects/polaris-isla-animated.webp" alt="Animated voxel island with a golden hat, palms and sailboat: the polaris-local-ai 3D scene" width="100%"><br/>
 <strong>🧠 polaris-local-ai</strong><br/>
-Local AI stack on an RX 580 8 GB<br/>
+Local AI stack on an RX 580 8 GB, up to 35B MoE models<br/>
 Python + Vulkan + llama.cpp
 </a>
 </td>
@@ -135,11 +137,14 @@ React + Vite + Tailwind
 [![Portfolio](https://img.shields.io/badge/Portfolio-0B2433?style=for-the-badge&logo=vercel&logoColor=white)](https://avilacarlosdev.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logoColor=white)](mailto:contacto@avilacarlosdev.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avilacarlosdev)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/avilacarlosdev)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AvilaCarlosDev)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/avilacarlosdev)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@avilacarlosdev)
+[![All my links](https://img.shields.io/badge/All_my_links-0B2433?style=for-the-badge&logo=linktree&logoColor=white)](https://avilacarlosdev.com/links/)
 
 </div>
 
-> If you are learning to code and got stuck on something, reach out. Helping with that is literally my job.
+> Need a website, an app or a self-hosted setup for your business? Write to [contacto@avilacarlosdev.com](mailto:contacto@avilacarlosdev.com) or message me on WhatsApp from [avilacarlosdev.com/links](https://avilacarlosdev.com/links/).
 
 ---
 
@@ -147,7 +152,7 @@ React + Vite + Tailwind
 
 <div align="center">
 
-<a href="https://www.buymeacoffee.com/AvilaCarlosDev" target="_blank">
+<a href="https://buymeacoffee.com/avilacarlosdev" target="_blank">
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" width="217" />
 </a>
 
