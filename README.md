@@ -7,7 +7,7 @@
 
 ![AvilaCarlosDev · Developer · Homelab · Local AI. Building software. Hosting services. Keeping data in my control.](assets/banner-avilacarlosdev.jpg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=42FFA1&center=true&vCenter=true&width=600&lines=Freelance+developer+from+Venezuela+%F0%9F%87%BB%F0%9F%87%AA;Homelab+%7C+Local+AI+%7C+Privacy;Apps+in+production+with+tests;Docs+in+Spanish+for+LATAM+devs)](https://github.com/AvilaCarlosDev)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=42FFA1&center=true&vCenter=true&width=600&lines=Developer+from+Venezuela+%F0%9F%87%BB%F0%9F%87%AA;Homelab+%7C+Local+AI+%7C+Privacy;Apps+in+production+with+tests;Docs+in+Spanish+for+LATAM+devs)](https://github.com/AvilaCarlosDev)
 
 <p align="center"><code>&lt;CA/&gt;</code> Building software. Hosting services. Keeping data in my control.<br/><a href="https://avilacarlosdev.com"><b>See my work</b></a> · <a href="mailto:contacto@avilacarlosdev.com"><b>Hire me</b></a></p>
 
@@ -17,13 +17,13 @@
 
 ## 👨🏽‍💻 About Me
 
-I'm a freelance developer working with React, Node.js and Python. I build web solutions for clients and run my own homelab: my servers, my services and my local AI. Privacy, security and control of my data come first.
+I'm a developer working with React, Node.js and Python. I build web solutions for clients and run my own homelab: my servers, my services and my local AI. Privacy, security and control of my data come first.
 
 ```javascript
 const carlos = {
-  role: "Freelance Developer · Homelab · Local AI",
+  role: "Developer · Homelab · Local AI",
   building: "Open-source developer tools, in Spanish, with tests and CI",
-  currentlyAt: "Freelance developer · my own homelab and client projects",
+  currentlyAt: "Developer · my own homelab and client projects",
   location: "Punto Fijo, Falcón, Venezuela 🇻🇪",
   languages: ["Español (nativo)", "English (B1)", "Italiano (B1)"],
   stack: ["JavaScript", "TypeScript", "React", "Node.js", "Python", "PostgreSQL", "Git", "Docker", "Linux", "AI & agents (MCP)"],
