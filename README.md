@@ -5,7 +5,7 @@
 
 <div align="center">
 
-![Carlos Avila · I run my own servers, local AI and apps. Then I try to break them.](assets/banner.png)
+![AvilaCarlosDev · Developer · Homelab · Local AI. Building software. Hosting services. Keeping data in my control.](assets/banner-avilacarlosdev.jpg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=42FFA1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+from+Venezuela+%F0%9F%87%BB%F0%9F%87%AA;Homelab+%7C+Local+AI+on+an+RX+580;Apps+in+production+with+tests;Docs+in+Spanish+for+LATAM+devs)](https://github.com/AvilaCarlosDev)
 
@@ -21,7 +21,7 @@
 const carlos = {
   role: "Full Stack Developer · AI",
   building: "Open-source developer tools, in Spanish, with tests and CI",
-  currentlyAt: "4Geeks Academy (part-time) · freelance developer",
+  currentlyAt: "Freelance developer · my own homelab and client projects",
   location: "Punto Fijo, Falcón, Venezuela 🇻🇪",
   languages: ["Español (nativo)", "English (B1)", "Italiano (B1)"],
   stack: ["JavaScript", "TypeScript", "React", "Node.js", "Python", "PostgreSQL", "Git", "Docker", "Linux", "AI & agents (MCP)"],
