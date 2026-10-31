@@ -7,11 +7,11 @@
 </style>
 <rect width="470" height="220" rx="6" fill="#0d1117"/>
 <text x="25" y="35" class="t">AvilaCarlosDev&#x27;s GitHub Stats</text>
-<circle cx="31" cy="65" r="5" fill="#ff8c69"/><text x="45" y="70" class="s">Total stars:</text><text x="300" y="70" class="b" text-anchor="end">25</text>
-<circle cx="31" cy="90" r="5" fill="#ff8c69"/><text x="45" y="95" class="s">Commits (last year):</text><text x="300" y="95" class="b" text-anchor="end">1,273</text>
-<circle cx="31" cy="115" r="5" fill="#ff8c69"/><text x="45" y="120" class="s">Pull requests:</text><text x="300" y="120" class="b" text-anchor="end">213</text>
+<circle cx="31" cy="65" r="5" fill="#ff8c69"/><text x="45" y="70" class="s">Total stars:</text><text x="300" y="70" class="b" text-anchor="end">22</text>
+<circle cx="31" cy="90" r="5" fill="#ff8c69"/><text x="45" y="95" class="s">Commits (last year):</text><text x="300" y="95" class="b" text-anchor="end">1,046</text>
+<circle cx="31" cy="115" r="5" fill="#ff8c69"/><text x="45" y="120" class="s">Pull requests:</text><text x="300" y="120" class="b" text-anchor="end">208</text>
 <circle cx="31" cy="140" r="5" fill="#ff8c69"/><text x="45" y="145" class="s">Issues:</text><text x="300" y="145" class="b" text-anchor="end">4</text>
-<circle cx="31" cy="165" r="5" fill="#ff8c69"/><text x="45" y="170" class="s">Public repos:</text><text x="300" y="170" class="b" text-anchor="end">34</text>
+<circle cx="31" cy="165" r="5" fill="#ff8c69"/><text x="45" y="170" class="s">Public repos:</text><text x="300" y="170" class="b" text-anchor="end">17</text>
 <circle cx="31" cy="190" r="5" fill="#ff8c69"/><text x="45" y="195" class="s">Followers:</text><text x="300" y="195" class="b" text-anchor="end">50</text>
-<circle cx="400" cy="127" r="40" fill="none" stroke="#ff8c69" stroke-opacity="0.2" stroke-width="6"/><circle cx="400" cy="127" r="40" fill="none" stroke="#ff8c69" stroke-width="6" stroke-linecap="round" stroke-dasharray="153.92 251.33" transform="rotate(-90 400 127)"/><text x="400" y="127" class="r" text-anchor="middle" dominant-baseline="central">B+</text>
+<circle cx="400" cy="127" r="40" fill="none" stroke="#ff8c69" stroke-opacity="0.2" stroke-width="6"/><circle cx="400" cy="127" r="40" fill="none" stroke="#ff8c69" stroke-width="6" stroke-linecap="round" stroke-dasharray="144.15 251.33" transform="rotate(-90 400 127)"/><text x="400" y="127" class="r" text-anchor="middle" dominant-baseline="central">B+</text>
 </svg>
