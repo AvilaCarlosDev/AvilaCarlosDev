@@ -8,6 +8,7 @@ Usage: GITHUB_TOKEN=... python3 scripts/stats.py
 """
 
 import json
+import math
 import os
 import urllib.request
 from html import escape
@@ -29,7 +30,7 @@ query($login: String!, $cursor: String) {
     followers { totalCount }
     pullRequests { totalCount }
     issues { totalCount }
-    contributionsCollection { totalCommitContributions restrictedContributionsCount }
+    contributionsCollection { totalCommitContributions restrictedContributionsCount totalPullRequestReviewContributions }
     repositories(first: 100, after: $cursor, ownerAffiliations: OWNER, isFork: false, privacy: PUBLIC) {
       totalCount
       pageInfo { hasNextPage endCursor }
@@ -79,15 +80,44 @@ def collect(token):
             langs[name] = (size + edge["size"], color)
 
     contrib = user["contributionsCollection"]
+    stars = sum(r["stargazerCount"] for r in repos)
+    commits = contrib["totalCommitContributions"] + contrib["restrictedContributionsCount"]
+    prs = user["pullRequests"]["totalCount"]
+    issues = user["issues"]["totalCount"]
+    followers = user["followers"]["totalCount"]
     stats = [
-        ("Total stars", sum(r["stargazerCount"] for r in repos)),
-        ("Commits (last year)", contrib["totalCommitContributions"] + contrib["restrictedContributionsCount"]),
-        ("Pull requests", user["pullRequests"]["totalCount"]),
-        ("Issues", user["issues"]["totalCount"]),
+        ("Total stars", stars),
+        ("Commits (last year)", commits),
+        ("Pull requests", prs),
+        ("Issues", issues),
         ("Public repos", user["repositories"]["totalCount"]),
-        ("Followers", user["followers"]["totalCount"]),
+        ("Followers", followers),
     ]
-    return stats, langs
+    rank = calculate_rank(commits, prs, issues, contrib["totalPullRequestReviewContributions"], stars, followers)
+    return stats, rank, langs
+
+
+def calculate_rank(commits, prs, issues, reviews, stars, followers):
+    """Same weights, medians and levels as github-readme-stats (commits of the last year)."""
+    def exponential_cdf(x):
+        return 1 - 2 ** -x
+
+    def log_normal_cdf(x):
+        return x / (1 + x)
+
+    parts = [
+        (2, exponential_cdf(commits / 250)),
+        (3, exponential_cdf(prs / 50)),
+        (1, exponential_cdf(issues / 25)),
+        (1, exponential_cdf(reviews / 2)),
+        (4, log_normal_cdf(stars / 50)),
+        (1, log_normal_cdf(followers / 10)),
+    ]
+    percentile = 100 * (1 - sum(w * v for w, v in parts) / sum(w for w, _ in parts))
+    thresholds = [1, 12.5, 25, 37.5, 50, 62.5, 75, 87.5, 100]
+    levels = ["S", "A+", "A", "A-", "B+", "B", "B-", "C+", "C"]
+    level = next(lvl for t, lvl in zip(thresholds, levels) if percentile <= t)
+    return level, percentile
 
 
 def card(width, height, title, body):
@@ -96,6 +126,7 @@ def card(width, height, title, body):
   .t {{ font: 600 18px {FONT}; fill: {TITLE}; }}
   .s {{ font: 400 14px {FONT}; fill: {TEXT}; }}
   .b {{ font: 700 14px {FONT}; fill: {TEXT}; }}
+  .r {{ font: 800 24px {FONT}; fill: {TITLE}; }}
 </style>
 <rect width="{width}" height="{height}" rx="6" fill="{BG}"/>
 <text x="25" y="35" class="t">{escape(title)}</text>
@@ -104,14 +135,25 @@ def card(width, height, title, body):
 """
 
 
-def stats_svg(stats):
+def rank_ring(cx, cy, level, percentile, r=40):
+    circumference = 2 * math.pi * r
+    filled = circumference * (100 - percentile) / 100
+    return (f'<circle cx="{cx}" cy="{cy}" r="{r}" fill="none" stroke="{ICON}" stroke-opacity="0.2" stroke-width="6"/>'
+            f'<circle cx="{cx}" cy="{cy}" r="{r}" fill="none" stroke="{ICON}" stroke-width="6" stroke-linecap="round" '
+            f'stroke-dasharray="{filled:.2f} {circumference:.2f}" transform="rotate(-90 {cx} {cy})"/>'
+            f'<text x="{cx}" y="{cy}" class="r" text-anchor="middle" dominant-baseline="central">{escape(level)}</text>')
+
+
+def stats_svg(stats, rank):
     rows = []
     for i, (label, value) in enumerate(stats):
         y = 70 + i * 25
         rows.append(f'<circle cx="31" cy="{y - 5}" r="5" fill="{ICON}"/>'
                     f'<text x="45" y="{y}" class="s">{escape(label)}:</text>'
-                    f'<text x="400" y="{y}" class="b" text-anchor="end">{value:,}</text>')
-    return card(450, 70 + len(stats) * 25, f"{USER}'s GitHub Stats", "\n".join(rows))
+                    f'<text x="300" y="{y}" class="b" text-anchor="end">{value:,}</text>')
+    height = 70 + len(stats) * 25
+    rows.append(rank_ring(400, (height + 35) // 2, *rank))
+    return card(470, height, f"{USER}'s GitHub Stats", "\n".join(rows))
 
 
 def langs_svg(langs, top=8):
@@ -137,9 +179,9 @@ def main():
     token = os.environ.get("GITHUB_TOKEN")
     if not token:
         raise SystemExit("Set GITHUB_TOKEN")
-    stats, langs = collect(token)
+    stats, rank, langs = collect(token)
     OUT.mkdir(parents=True, exist_ok=True)
-    (OUT / "stats.svg").write_text(stats_svg(stats))
+    (OUT / "stats.svg").write_text(stats_svg(stats, rank))
     (OUT / "top-langs.svg").write_text(langs_svg(langs))
     print(f"Wrote {OUT / 'stats.svg'} and {OUT / 'top-langs.svg'}")
 
