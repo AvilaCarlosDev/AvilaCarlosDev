@@ -122,9 +122,9 @@ React + Vite + Tailwind
 
 <div align="center">
 
-![Carlos GitHub Stats](https://github-readme-stats.vercel.app/api?username=AvilaCarlosDev&show_icons=true&theme=radical&hide_border=true&title_color=42ffa1&icon_color=ff8c69&text_color=c9d1d9&bg_color=0d1117&cache_seconds=21600)
+![Carlos GitHub Stats](assets/stats/stats.svg)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AvilaCarlosDev&layout=compact&theme=radical&hide_border=true&title_color=42ffa1&text_color=c9d1d9&bg_color=0d1117&cache_seconds=21600&exclude_repo=jardin-gratitud-mama,jardin-para-mi-esposa)
+![Top Languages](assets/stats/top-langs.svg)
 
 </div>
 
