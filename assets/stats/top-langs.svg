@@ -7,13 +7,13 @@
 </style>
 <rect width="450" height="185" rx="6" fill="#0d1117"/>
 <text x="25" y="35" class="t">Most Used Languages</text>
-<clipPath id="r"><rect x="25" y="50" width="400" height="8" rx="4"/></clipPath><g clip-path="url(#r)"><rect x="25.00" y="50" width="154.21" height="8" fill="#f1e05a"/><rect x="179.21" y="50" width="116.36" height="8" fill="#3572A5"/><rect x="295.57" y="50" width="31.76" height="8" fill="#89e051"/><rect x="327.33" y="50" width="29.66" height="8" fill="#e34c26"/><rect x="356.99" y="50" width="27.25" height="8" fill="#663399"/><rect x="384.25" y="50" width="27.09" height="8" fill="#3178c6"/><rect x="411.34" y="50" width="10.89" height="8" fill="#ff5a03"/><rect x="422.22" y="50" width="2.78" height="8" fill="#000080"/></g>
+<clipPath id="r"><rect x="25" y="50" width="400" height="8" rx="4"/></clipPath><g clip-path="url(#r)"><rect x="25.00" y="50" width="154.43" height="8" fill="#f1e05a"/><rect x="179.43" y="50" width="115.98" height="8" fill="#3572A5"/><rect x="295.40" y="50" width="31.65" height="8" fill="#89e051"/><rect x="327.06" y="50" width="29.57" height="8" fill="#e34c26"/><rect x="356.62" y="50" width="27.16" height="8" fill="#663399"/><rect x="383.79" y="50" width="27.00" height="8" fill="#3178c6"/><rect x="410.78" y="50" width="11.45" height="8" fill="#ff5a03"/><rect x="422.23" y="50" width="2.77" height="8" fill="#000080"/></g>
 <circle cx="30" cy="80" r="5" fill="#f1e05a"/><text x="42" y="85" class="s">JavaScript 38.6%</text>
-<circle cx="230" cy="80" r="5" fill="#3572A5"/><text x="242" y="85" class="s">Python 29.1%</text>
+<circle cx="230" cy="80" r="5" fill="#3572A5"/><text x="242" y="85" class="s">Python 29.0%</text>
 <circle cx="30" cy="105" r="5" fill="#89e051"/><text x="42" y="110" class="s">Shell 7.9%</text>
 <circle cx="230" cy="105" r="5" fill="#e34c26"/><text x="242" y="110" class="s">HTML 7.4%</text>
 <circle cx="30" cy="130" r="5" fill="#663399"/><text x="42" y="135" class="s">CSS 6.8%</text>
-<circle cx="230" cy="130" r="5" fill="#3178c6"/><text x="242" y="135" class="s">TypeScript 6.8%</text>
-<circle cx="30" cy="155" r="5" fill="#ff5a03"/><text x="42" y="160" class="s">Astro 2.7%</text>
+<circle cx="230" cy="130" r="5" fill="#3178c6"/><text x="242" y="135" class="s">TypeScript 6.7%</text>
+<circle cx="30" cy="155" r="5" fill="#ff5a03"/><text x="42" y="160" class="s">Astro 2.9%</text>
 <circle cx="230" cy="155" r="5" fill="#000080"/><text x="242" y="160" class="s">Lua 0.7%</text>
 </svg>
