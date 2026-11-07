@@ -12,6 +12,6 @@
 <circle cx="31" cy="115" r="5" fill="#ff8c69"/><text x="45" y="120" class="s">Pull requests:</text><text x="300" y="120" class="b" text-anchor="end">209</text>
 <circle cx="31" cy="140" r="5" fill="#ff8c69"/><text x="45" y="145" class="s">Issues:</text><text x="300" y="145" class="b" text-anchor="end">4</text>
 <circle cx="31" cy="165" r="5" fill="#ff8c69"/><text x="45" y="170" class="s">Public repos:</text><text x="300" y="170" class="b" text-anchor="end">17</text>
-<circle cx="31" cy="190" r="5" fill="#ff8c69"/><text x="45" y="195" class="s">Followers:</text><text x="300" y="195" class="b" text-anchor="end">53</text>
-<circle cx="400" cy="127" r="40" fill="none" stroke="#ff8c69" stroke-opacity="0.2" stroke-width="6"/><circle cx="400" cy="127" r="40" fill="none" stroke="#ff8c69" stroke-width="6" stroke-linecap="round" stroke-dasharray="146.03 251.33" transform="rotate(-90 400 127)"/><text x="400" y="127" class="r" text-anchor="middle" dominant-baseline="central">B+</text>
+<circle cx="31" cy="190" r="5" fill="#ff8c69"/><text x="45" y="195" class="s">Followers:</text><text x="300" y="195" class="b" text-anchor="end">52</text>
+<circle cx="400" cy="127" r="40" fill="none" stroke="#ff8c69" stroke-opacity="0.2" stroke-width="6"/><circle cx="400" cy="127" r="40" fill="none" stroke="#ff8c69" stroke-width="6" stroke-linecap="round" stroke-dasharray="145.98 251.33" transform="rotate(-90 400 127)"/><text x="400" y="127" class="r" text-anchor="middle" dominant-baseline="central">B+</text>
 </svg>
