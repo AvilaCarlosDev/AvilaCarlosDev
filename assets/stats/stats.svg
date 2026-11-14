@@ -8,7 +8,7 @@
 <rect width="470" height="220" rx="6" fill="#0d1117"/>
 <text x="25" y="35" class="t">AvilaCarlosDev&#x27;s GitHub Stats</text>
 <circle cx="31" cy="65" r="5" fill="#ff8c69"/><text x="45" y="70" class="s">Total stars:</text><text x="300" y="70" class="b" text-anchor="end">24</text>
-<circle cx="31" cy="90" r="5" fill="#ff8c69"/><text x="45" y="95" class="s">Commits (last year):</text><text x="300" y="95" class="b" text-anchor="end">1,081</text>
+<circle cx="31" cy="90" r="5" fill="#ff8c69"/><text x="45" y="95" class="s">Commits (last year):</text><text x="300" y="95" class="b" text-anchor="end">1,082</text>
 <circle cx="31" cy="115" r="5" fill="#ff8c69"/><text x="45" y="120" class="s">Pull requests:</text><text x="300" y="120" class="b" text-anchor="end">209</text>
 <circle cx="31" cy="140" r="5" fill="#ff8c69"/><text x="45" y="145" class="s">Issues:</text><text x="300" y="145" class="b" text-anchor="end">4</text>
 <circle cx="31" cy="165" r="5" fill="#ff8c69"/><text x="45" y="170" class="s">Public repos:</text><text x="300" y="170" class="b" text-anchor="end">17</text>
